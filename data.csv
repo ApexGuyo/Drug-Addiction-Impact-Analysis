@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Employment Status,Location,Drug Type,Frequency,Duration (Years),Severity,Mental Health,Physical Health,Monthly Income (Ksh),Family Background,Peer Influence,Rehab Attendance,Counseling Sessions,Relapse Case
+53,Male,Secondary,Employed,Marsabit,Miraa,Occasional,7,Mild,Depressed,Chronic Conditions,5,Stable,High,Never,1,No
+43,Male,Primary,Student,Isiolo,Miraa,Regular,19,Moderate,Depressed,Healthy,7038,Broken,Low,Once,13,Yes
+29,Male,None,Student,Wajir,Alcohol,Regular,6,Mild,Depressed,Minor Issues,6414,Stable,Moderate,Multiple,5,Yes
+57,Female,University,Unemployed,Isiolo,Heroin,Regular,11,Mild,Stable,Healthy,87659,Broken,Moderate,Once,4,No
+22,Male,Primary,Student,Isiolo,Alcohol,Regular,11,Mild,Stable,Minor Issues,69506,Stable,High,Once,4,Yes
+35,Female,None,Unemployed,Marsabit,Bhang,Occasional,7,Mild,Stable,Minor Issues,76586,Broken,Low,Once,18,Yes
+53,Male,Primary,Student,Isiolo,Bhang,Heavy,2,Mild,Depressed,Chronic Conditions,2606,Stable,Moderate,Never,18,No
+33,Male,Primary,Employed,Garissa,Bhang,Regular,19,Moderate,Stable,Healthy,16482,Broken,Moderate,Never,5,No
+37,Male,Secondary,Employed,Isiolo,Miraa,Occasional,4,Moderate,Stable,Healthy,98829,Stable,Low,Never,9,Yes
+25,Male,Secondary,Employed,Wajir,Alcohol,Regular,6,Moderate,Stable,Healthy,71873,Stable,Low,Multiple,13,No
+25,Female,Secondary,Employed,Wajir,Miraa,Regular,17,Moderate,Depressed,Chronic Conditions,33948,Broken,Moderate,Never,16,Yes
+38,Male,None,Employed,Mandera,Bhang,Occasional,5,Severe,Stable,Minor Issues,89987,Stable,Low,Once,2,Yes
+50,Male,Primary,Unemployed,Wajir,Miraa,Regular,7,Moderate,Anxious,Minor Issues,91801,Stable,High,Never,0,Yes
+54,Female,Primary,Unemployed,Isiolo,Heroin,Occasional,9,Moderate,Depressed,Healthy,91250,Stable,Low,Never,9,No
+38,Male,None,Unemployed,Wajir,Miraa,Regular,1,Mild,Depressed,Chronic Conditions,20875,Stable,High,Never,2,No
+17,Male,Primary,Employed,Marsabit,Alcohol,Heavy,1,Severe,Depressed,Chronic Conditions,13057,Stable,Low,Never,4,No
+36,Female,Secondary,Unemployed,Wajir,Alcohol,Occasional,19,Mild,Stable,Minor Issues,32400,Stable,Low,Never,18,No
+16,Male,None,Unemployed,Garissa,Miraa,Occasional,6,Mild,Stable,Healthy,71458,Stable,Low,Once,9,Yes
+38,Male,Secondary,Employed,Marsabit,Miraa,Heavy,18,Moderate,Psychotic,Healthy,68607,Broken,Moderate,Never,15,Yes
+58,Female,Primary,Unemployed,Mandera,Bhang,Heavy,10,Mild,Depressed,Minor Issues,87561,Broken,Moderate,Once,0,Yes
+44,Male,None,Employed,Garissa,Bhang,Regular,11,Mild,Psychotic,Minor Issues,27503,Stable,Low,Never,5,Yes
+52,Male,Primary,Employed,Isiolo,Heroin,Regular,1,Moderate,Depressed,Healthy,23765,Orphan,Low,Once,8,No
+16,Male,University,Student,Isiolo,Heroin,Regular,1,Moderate,Stable,Minor Issues,46612,Broken,Moderate,Once,4,No
+35,Female,Secondary,Employed,Isiolo,Heroin,Heavy,13,Moderate,Stable,Healthy,98318,Stable,Moderate,Multiple,13,No
+47,Male,University,Unemployed,Garissa,Alcohol,Heavy,5,Severe,Depressed,Minor Issues,84335,Stable,Moderate,Never,9,Yes
+26,Male,Primary,Unemployed,Garissa,Bhang,Occasional,1,Mild,Stable,Minor Issues,93012,Orphan,Low,Never,1,Yes
+36,Female,None,Unemployed,Garissa,Alcohol,Regular,3,Mild,Stable,Healthy,81748,Stable,Moderate,Multiple,4,Yes
+58,Female,Secondary,Employed,Marsabit,Alcohol,Regular,18,Moderate,Anxious,Minor Issues,9428,Stable,Moderate,Never,0,Yes
+39,Male,Primary,Employed,Marsabit,Bhang,Regular,9,Mild,Stable,Healthy,31419,Stable,High,Multiple,9,Yes
+41,Male,Secondary,Employed,Isiolo,Miraa,Regular,14,Moderate,Stable,Healthy,65195,Broken,Moderate,Never,8,Yes
+56,Male,None,Unemployed,Wajir,Alcohol,Regular,17,Mild,Anxious,Chronic Conditions,73695,Stable,Low,Once,2,Yes
+42,Female,Primary,Unemployed,Isiolo,Alcohol,Heavy,14,Moderate,Anxious,Healthy,89846,Broken,Low,Never,14,Yes
+30,Male,None,Employed,Mandera,Alcohol,Occasional,4,Moderate,Stable,Healthy,39142,Broken,Moderate,Multiple,3,Yes
+29,Male,Primary,Student,Marsabit,Cocaine,Occasional,5,Moderate,Anxious,Healthy,71540,Broken,Moderate,Once,12,Yes
+58,Female,Secondary,Unemployed,Garissa,Alcohol,Regular,17,Moderate,Anxious,Healthy,38289,Broken,High,Never,5,Yes
+17,Female,Primary,Employed,Marsabit,Alcohol,Occasional,2,Moderate,Stable,Healthy,76948,Stable,Moderate,Never,19,Yes
+51,Male,Primary,Unemployed,Garissa,Miraa,Occasional,5,Mild,Stable,Healthy,58951,Broken,Moderate,Never,16,Yes
+21,Female,Primary,Unemployed,Mandera,Miraa,Occasional,4,Mild,Stable,Minor Issues,11755,Stable,Moderate,Once,4,Yes
+35,Male,Primary,Employed,Mandera,Cocaine,Regular,4,Mild,Depressed,Healthy,84553,Stable,Moderate,Never,14,Yes
+23,Female,Secondary,Employed,Marsabit,Alcohol,Heavy,6,Moderate,Stable,Minor Issues,3890,Stable,Low,Never,7,Yes
+53,Male,University,Unemployed,Garissa,Miraa,Regular,13,Mild,Psychotic,Healthy,94376,Stable,Low,Once,4,Yes
+32,Male,University,Unemployed,Mandera,Bhang,Regular,5,Moderate,Depressed,Healthy,17175,Stable,Moderate,Never,12,No
+18,Female,Secondary,Unemployed,Isiolo,Cocaine,Occasional,7,Mild,Depressed,Healthy,74727,Stable,Low,Never,0,No
+39,Male,Primary,Unemployed,Isiolo,Bhang,Regular,1,Moderate,Psychotic,Chronic Conditions,65687,Stable,Low,Never,0,No
+28,Male,Secondary,Employed,Garissa,Heroin,Regular,14,Severe,Anxious,Minor Issues,84983,Broken,Low,Once,6,Yes
+23,Female,Primary,Employed,Marsabit,Alcohol,Regular,4,Mild,Stable,Minor Issues,88287,Stable,Low,Multiple,4,Yes
+40,Female,Primary,Unemployed,Mandera,Miraa,Occasional,17,Mild,Stable,Healthy,94711,Broken,Low,Never,13,No
+16,Male,Secondary,Employed,Marsabit,Miraa,Occasional,14,Mild,Depressed,Chronic Conditions,24288,Stable,Moderate,Once,14,Yes
+34,Male,None,Employed,Isiolo,Heroin,Occasional,16,Moderate,Stable,Healthy,46629,Stable,Moderate,Never,16,No
+42,Male,University,Unemployed,Mandera,Alcohol,Regular,14,Moderate,Stable,Healthy,47800,Stable,Moderate,Never,17,Yes
+21,Male,Primary,Student,Marsabit,Alcohol,Heavy,16,Mild,Depressed,Minor Issues,37367,Stable,Moderate,Once,6,Yes
+58,Male,Secondary,Unemployed,Wajir,Miraa,Heavy,8,Moderate,Anxious,Healthy,77810,Broken,High,Never,17,No
+22,Male,Secondary,Unemployed,Garissa,Alcohol,Regular,3,Mild,Stable,Chronic Conditions,77754,Stable,Low,Once,18,Yes
+49,Female,University,Employed,Garissa,Alcohol,Regular,19,Moderate,Depressed,Healthy,89328,Orphan,Moderate,Multiple,19,Yes
+28,Male,Secondary,Student,Wajir,Cocaine,Heavy,1,Moderate,Stable,Chronic Conditions,68513,Orphan,Low,Multiple,6,Yes
+31,Male,Secondary,Employed,Isiolo,Miraa,Occasional,2,Moderate,Depressed,Minor Issues,82762,Stable,Moderate,Never,7,Yes
+50,Male,None,Student,Mandera,Bhang,Occasional,15,Mild,Stable,Minor Issues,29022,Broken,High,Never,12,Yes
+54,Female,Secondary,Student,Garissa,Bhang,Heavy,10,Severe,Anxious,Healthy,69329,Stable,Moderate,Multiple,17,Yes
+18,Male,None,Unemployed,Wajir,Miraa,Occasional,18,Moderate,Stable,Healthy,59414,Broken,Moderate,Never,10,No
+16,Male,Secondary,Student,Wajir,Alcohol,Heavy,14,Mild,Depressed,Chronic Conditions,1659,Broken,Moderate,Once,8,No
+20,Male,Secondary,Unemployed,Isiolo,Alcohol,Heavy,17,Mild,Stable,Healthy,57941,Stable,Moderate,Never,0,Yes
+56,Male,Secondary,Employed,Isiolo,Miraa,Regular,13,Moderate,Stable,Minor Issues,37930,Stable,Low,Never,7,No
+18,Male,None,Unemployed,Marsabit,Bhang,Heavy,1,Severe,Stable,Chronic Conditions,43473,Stable,Moderate,Never,11,Yes
+43,Female,None,Unemployed,Garissa,Miraa,Regular,5,Severe,Stable,Healthy,55598,Stable,Moderate,Multiple,1,Yes
+32,Female,Secondary,Employed,Marsabit,Alcohol,Regular,13,Moderate,Stable,Minor Issues,16040,Broken,Low,Multiple,14,No
+40,Male,None,Unemployed,Wajir,Miraa,Occasional,14,Severe,Stable,Minor Issues,69806,Stable,Low,Never,17,No
+58,Male,None,Student,Mandera,Cocaine,Occasional,3,Mild,Depressed,Healthy,13286,Stable,High,Multiple,16,No
+48,Female,None,Employed,Mandera,Heroin,Occasional,15,Mild,Depressed,Healthy,69139,Stable,Low,Never,14,Yes
+24,Female,University,Unemployed,Isiolo,Heroin,Regular,19,Severe,Stable,Healthy,55916,Broken,Low,Never,19,Yes
+50,Male,Secondary,Student,Mandera,Bhang,Occasional,17,Moderate,Depressed,Healthy,17600,Stable,Moderate,Once,19,No
+28,Male,Primary,Student,Mandera,Miraa,Occasional,3,Moderate,Stable,Minor Issues,2291,Broken,Low,Once,8,Yes
+45,Male,Primary,Student,Mandera,Bhang,Occasional,16,Moderate,Depressed,Healthy,13123,Broken,Moderate,Never,2,No
+29,Male,Primary,Unemployed,Wajir,Alcohol,Regular,14,Severe,Stable,Chronic Conditions,3811,Broken,Moderate,Never,19,Yes
+22,Female,Secondary,Student,Mandera,Bhang,Heavy,12,Moderate,Depressed,Healthy,78883,Broken,Moderate,Multiple,18,No
+28,Female,Secondary,Unemployed,Mandera,Bhang,Heavy,12,Severe,Stable,Minor Issues,31276,Stable,Low,Multiple,17,Yes
+37,Female,None,Employed,Mandera,Alcohol,Regular,11,Moderate,Psychotic,Minor Issues,54145,Stable,Moderate,Multiple,19,Yes
+54,Male,None,Unemployed,Marsabit,Bhang,Heavy,17,Mild,Stable,Healthy,46619,Broken,High,Never,7,Yes
+35,Male,None,Unemployed,Wajir,Cocaine,Regular,8,Severe,Stable,Healthy,81049,Orphan,Low,Once,0,No
+30,Female,Secondary,Employed,Isiolo,Alcohol,Regular,17,Mild,Stable,Minor Issues,70678,Broken,Low,Never,14,No
+59,Female,Secondary,Unemployed,Marsabit,Heroin,Regular,11,Severe,Anxious,Chronic Conditions,88782,Stable,High,Multiple,18,Yes
+32,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,2,Moderate,Depressed,Healthy,91043,Stable,Low,Never,9,No
+38,Female,None,Employed,Wajir,Miraa,Heavy,10,Moderate,Depressed,Healthy,26714,Orphan,Low,Never,11,Yes
+40,Female,None,Unemployed,Wajir,Miraa,Occasional,10,Moderate,Anxious,Healthy,55685,Stable,Low,Never,5,Yes
+39,Male,University,Unemployed,Garissa,Miraa,Regular,11,Mild,Anxious,Healthy,12194,Stable,Low,Multiple,12,Yes
+59,Male,Primary,Unemployed,Garissa,Cocaine,Regular,6,Mild,Depressed,Minor Issues,73062,Stable,Low,Once,3,Yes
+55,Male,Secondary,Employed,Garissa,Heroin,Occasional,4,Severe,Stable,Chronic Conditions,64037,Orphan,Moderate,Never,12,Yes
+43,Male,Secondary,Employed,Isiolo,Bhang,Occasional,12,Severe,Anxious,Healthy,19362,Stable,Moderate,Once,16,Yes
+29,Male,Primary,Employed,Mandera,Alcohol,Regular,11,Mild,Stable,Chronic Conditions,54499,Stable,Low,Multiple,0,No
+59,Female,Primary,Student,Wajir,Cocaine,Occasional,13,Severe,Depressed,Healthy,46281,Broken,High,Never,4,No
+15,Male,None,Employed,Mandera,Alcohol,Regular,5,Severe,Depressed,Minor Issues,62813,Stable,Moderate,Multiple,16,No
+39,Male,Secondary,Unemployed,Mandera,Heroin,Regular,6,Moderate,Depressed,Healthy,44852,Broken,High,Multiple,17,Yes
+21,Male,Secondary,Employed,Garissa,Miraa,Regular,1,Mild,Depressed,Healthy,47836,Broken,High,Never,6,No
+23,Male,Secondary,Employed,Isiolo,Alcohol,Regular,6,Severe,Depressed,Healthy,4595,Stable,Moderate,Never,15,No
+38,Female,Secondary,Unemployed,Marsabit,Bhang,Regular,18,Moderate,Psychotic,Healthy,95930,Broken,High,Never,7,Yes
+15,Male,None,Unemployed,Isiolo,Alcohol,Regular,9,Severe,Stable,Minor Issues,15402,Orphan,Moderate,Never,11,No
+58,Male,University,Employed,Mandera,Alcohol,Regular,15,Severe,Stable,Minor Issues,65283,Stable,High,Never,13,Yes
+22,Female,Secondary,Unemployed,Isiolo,Miraa,Regular,8,Severe,Depressed,Healthy,92676,Stable,Low,Once,18,Yes
+38,Male,Primary,Employed,Garissa,Alcohol,Regular,19,Moderate,Psychotic,Chronic Conditions,88131,Broken,Low,Once,10,Yes
+25,Male,University,Unemployed,Marsabit,Alcohol,Heavy,16,Mild,Stable,Healthy,42723,Stable,Moderate,Never,11,Yes
+31,Male,Secondary,Unemployed,Garissa,Alcohol,Occasional,6,Mild,Stable,Minor Issues,51322,Orphan,Moderate,Once,12,No
+22,Male,Secondary,Employed,Marsabit,Miraa,Regular,6,Mild,Stable,Healthy,46764,Orphan,High,Once,7,Yes
+49,Male,Secondary,Employed,Mandera,Alcohol,Heavy,3,Mild,Stable,Healthy,24911,Stable,High,Multiple,0,Yes
+49,Male,Secondary,Employed,Marsabit,Bhang,Occasional,10,Moderate,Anxious,Healthy,91288,Orphan,Low,Never,8,No
+47,Male,Secondary,Student,Marsabit,Alcohol,Occasional,1,Moderate,Depressed,Minor Issues,19405,Stable,High,Once,1,No
+19,Female,None,Student,Marsabit,Cocaine,Regular,14,Severe,Depressed,Minor Issues,58122,Broken,Low,Multiple,13,No
+56,Male,Primary,Employed,Isiolo,Heroin,Occasional,4,Mild,Depressed,Healthy,89756,Stable,Low,Once,12,Yes
+53,Male,University,Unemployed,Isiolo,Alcohol,Occasional,12,Moderate,Depressed,Healthy,99489,Broken,Moderate,Never,15,Yes
+55,Male,Primary,Employed,Mandera,Bhang,Heavy,6,Mild,Stable,Healthy,3447,Broken,Low,Never,1,No
+42,Male,Primary,Employed,Marsabit,Heroin,Regular,11,Mild,Stable,Minor Issues,53143,Broken,Moderate,Multiple,3,Yes
+21,Male,Primary,Unemployed,Wajir,Cocaine,Occasional,12,Mild,Stable,Minor Issues,62906,Orphan,Moderate,Never,11,Yes
+23,Male,Primary,Student,Mandera,Miraa,Heavy,10,Moderate,Stable,Healthy,10662,Broken,Low,Multiple,15,Yes
+22,Female,Secondary,Student,Marsabit,Alcohol,Heavy,18,Mild,Stable,Healthy,63001,Stable,Moderate,Multiple,9,Yes
+26,Male,University,Unemployed,Marsabit,Bhang,Regular,7,Moderate,Stable,Minor Issues,58282,Broken,Moderate,Never,2,Yes
+48,Male,Primary,Employed,Isiolo,Bhang,Occasional,7,Mild,Stable,Healthy,4899,Broken,Low,Once,3,Yes
+47,Male,None,Unemployed,Mandera,Bhang,Heavy,11,Severe,Stable,Healthy,28582,Orphan,Low,Never,5,Yes
+37,Female,None,Employed,Marsabit,Miraa,Regular,4,Severe,Depressed,Healthy,67471,Orphan,High,Never,4,Yes
+38,Male,University,Unemployed,Marsabit,Heroin,Regular,1,Severe,Stable,Healthy,42213,Stable,High,Once,17,Yes
+51,Male,Secondary,Employed,Mandera,Cocaine,Heavy,13,Severe,Anxious,Minor Issues,75871,Stable,Low,Once,2,Yes
+49,Male,Primary,Unemployed,Wajir,Alcohol,Regular,18,Severe,Stable,Minor Issues,83205,Stable,Low,Never,9,No
+58,Female,Secondary,Employed,Mandera,Alcohol,Occasional,9,Severe,Depressed,Healthy,74081,Broken,High,Multiple,10,No
+54,Male,University,Employed,Mandera,Alcohol,Regular,9,Moderate,Anxious,Minor Issues,83805,Stable,Moderate,Never,18,Yes
+36,Female,Secondary,Student,Wajir,Heroin,Occasional,9,Mild,Anxious,Healthy,37830,Broken,Low,Never,13,Yes
+41,Male,University,Employed,Mandera,Bhang,Regular,10,Mild,Anxious,Chronic Conditions,7066,Stable,Moderate,Never,10,Yes
+49,Male,Primary,Unemployed,Marsabit,Bhang,Regular,2,Mild,Stable,Minor Issues,10712,Stable,Moderate,Never,3,Yes
+15,Male,Secondary,Employed,Mandera,Miraa,Occasional,6,Moderate,Stable,Minor Issues,81527,Stable,Moderate,Multiple,5,Yes
+49,Male,Primary,Employed,Wajir,Miraa,Regular,15,Moderate,Stable,Healthy,65365,Stable,Low,Once,16,Yes
+51,Male,Secondary,Employed,Garissa,Miraa,Occasional,3,Severe,Stable,Healthy,87185,Broken,Moderate,Once,18,No
+28,Male,Secondary,Employed,Mandera,Miraa,Occasional,11,Severe,Stable,Healthy,99851,Stable,Low,Once,12,No
+17,Female,Secondary,Unemployed,Isiolo,Bhang,Regular,6,Moderate,Anxious,Minor Issues,30806,Stable,High,Never,9,Yes
+15,Male,Secondary,Employed,Marsabit,Cocaine,Occasional,3,Moderate,Depressed,Healthy,12210,Stable,Moderate,Never,10,Yes
+19,Male,None,Student,Marsabit,Cocaine,Regular,11,Severe,Depressed,Chronic Conditions,36972,Broken,Moderate,Once,5,No
+40,Male,Secondary,Unemployed,Isiolo,Cocaine,Occasional,15,Mild,Anxious,Chronic Conditions,34136,Broken,Moderate,Multiple,1,Yes
+28,Male,University,Unemployed,Isiolo,Miraa,Regular,13,Moderate,Depressed,Minor Issues,44297,Stable,Moderate,Multiple,0,No
+53,Male,University,Unemployed,Mandera,Miraa,Heavy,10,Mild,Depressed,Chronic Conditions,15945,Broken,High,Never,10,Yes
+41,Male,None,Unemployed,Isiolo,Bhang,Regular,6,Moderate,Depressed,Healthy,95201,Stable,Low,Never,15,No
+23,Male,None,Unemployed,Garissa,Cocaine,Regular,15,Mild,Stable,Healthy,42477,Stable,High,Never,2,No
+29,Female,None,Employed,Wajir,Alcohol,Heavy,18,Severe,Stable,Healthy,79180,Broken,Low,Never,4,No
+29,Female,Secondary,Employed,Isiolo,Miraa,Occasional,18,Moderate,Psychotic,Minor Issues,70453,Stable,Low,Never,14,Yes
+40,Male,Secondary,Unemployed,Isiolo,Alcohol,Occasional,7,Mild,Anxious,Healthy,85404,Broken,Moderate,Once,14,Yes
+56,Male,Primary,Student,Garissa,Bhang,Regular,15,Mild,Anxious,Chronic Conditions,77413,Stable,Moderate,Never,3,Yes
+27,Male,Secondary,Unemployed,Marsabit,Miraa,Occasional,18,Moderate,Stable,Healthy,13224,Orphan,High,Once,3,No
+46,Male,Secondary,Unemployed,Marsabit,Miraa,Heavy,18,Severe,Anxious,Healthy,3052,Stable,Moderate,Once,7,Yes
+53,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,9,Moderate,Stable,Chronic Conditions,27272,Broken,Moderate,Never,6,Yes
+46,Male,Secondary,Unemployed,Garissa,Miraa,Regular,2,Moderate,Stable,Healthy,41150,Orphan,High,Once,16,Yes
+18,Female,Secondary,Unemployed,Wajir,Heroin,Regular,8,Mild,Stable,Healthy,96204,Stable,Low,Never,14,Yes
+44,Male,Secondary,Employed,Wajir,Alcohol,Occasional,2,Moderate,Stable,Minor Issues,17316,Stable,High,Once,4,Yes
+51,Male,Primary,Unemployed,Garissa,Bhang,Regular,11,Moderate,Stable,Healthy,53389,Stable,Moderate,Multiple,12,Yes
+37,Male,Secondary,Employed,Wajir,Bhang,Occasional,7,Moderate,Stable,Healthy,63332,Broken,Low,Once,3,Yes
+53,Male,Secondary,Employed,Marsabit,Heroin,Regular,6,Mild,Stable,Healthy,7240,Stable,Low,Multiple,16,Yes
+59,Male,University,Unemployed,Wajir,Alcohol,Occasional,10,Moderate,Stable,Healthy,97095,Stable,Moderate,Never,16,No
+29,Male,Secondary,Employed,Wajir,Cocaine,Heavy,5,Moderate,Depressed,Chronic Conditions,68774,Broken,Low,Once,13,No
+57,Male,Secondary,Employed,Garissa,Miraa,Heavy,11,Severe,Depressed,Chronic Conditions,43175,Stable,Low,Once,13,No
+43,Female,None,Employed,Garissa,Cocaine,Occasional,1,Severe,Stable,Healthy,565,Broken,Low,Once,16,Yes
+50,Male,Primary,Student,Wajir,Cocaine,Occasional,2,Moderate,Stable,Healthy,87298,Stable,Low,Multiple,7,No
+27,Male,None,Unemployed,Isiolo,Alcohol,Regular,1,Moderate,Depressed,Healthy,71094,Stable,Moderate,Once,1,Yes
+46,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,19,Mild,Depressed,Chronic Conditions,16375,Broken,High,Once,12,Yes
+21,Male,Secondary,Unemployed,Mandera,Alcohol,Heavy,2,Severe,Stable,Healthy,25710,Broken,Low,Never,15,Yes
+36,Male,University,Unemployed,Mandera,Miraa,Regular,4,Moderate,Depressed,Healthy,49895,Stable,Moderate,Never,15,Yes
+42,Female,None,Employed,Marsabit,Alcohol,Occasional,12,Mild,Psychotic,Minor Issues,76639,Stable,Low,Once,5,Yes
+16,Female,Primary,Unemployed,Wajir,Alcohol,Heavy,18,Mild,Stable,Chronic Conditions,15174,Stable,Moderate,Once,3,No
+56,Female,Secondary,Unemployed,Isiolo,Miraa,Regular,1,Severe,Stable,Healthy,87329,Stable,High,Multiple,2,Yes
+59,Male,Primary,Unemployed,Marsabit,Alcohol,Heavy,1,Mild,Stable,Healthy,27597,Stable,Moderate,Never,5,Yes
+20,Male,Secondary,Employed,Wajir,Alcohol,Heavy,14,Moderate,Depressed,Healthy,74289,Stable,High,Never,3,Yes
+42,Male,Secondary,Unemployed,Garissa,Miraa,Occasional,4,Moderate,Stable,Healthy,38397,Broken,Moderate,Once,17,Yes
+42,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,5,Mild,Stable,Minor Issues,71854,Broken,Moderate,Multiple,5,Yes
+58,Female,None,Employed,Isiolo,Miraa,Heavy,11,Mild,Stable,Minor Issues,33069,Stable,Moderate,Multiple,4,Yes
+58,Male,Primary,Unemployed,Mandera,Miraa,Heavy,13,Severe,Psychotic,Minor Issues,85687,Stable,High,Never,8,No
+34,Male,Secondary,Employed,Garissa,Miraa,Occasional,16,Severe,Depressed,Healthy,40274,Stable,High,Never,10,Yes
+44,Male,Secondary,Employed,Wajir,Heroin,Heavy,13,Mild,Depressed,Healthy,74237,Broken,Moderate,Never,5,Yes
+25,Male,None,Unemployed,Garissa,Miraa,Regular,2,Severe,Anxious,Healthy,72498,Orphan,High,Never,15,No
+42,Male,Secondary,Employed,Garissa,Miraa,Occasional,16,Moderate,Stable,Healthy,38197,Broken,Low,Multiple,18,No
+39,Male,None,Unemployed,Mandera,Miraa,Heavy,6,Moderate,Anxious,Minor Issues,48634,Broken,High,Never,10,No
+53,Male,Secondary,Unemployed,Isiolo,Heroin,Occasional,14,Moderate,Depressed,Healthy,30041,Broken,Low,Never,14,No
+47,Female,Primary,Employed,Garissa,Heroin,Heavy,1,Severe,Stable,Healthy,7248,Stable,Low,Never,8,Yes
+15,Female,University,Student,Mandera,Heroin,Occasional,17,Moderate,Anxious,Healthy,85365,Stable,Low,Never,18,Yes
+41,Male,Primary,Employed,Isiolo,Bhang,Regular,11,Mild,Anxious,Healthy,2203,Broken,High,Multiple,18,No
+27,Male,Primary,Employed,Wajir,Alcohol,Occasional,19,Severe,Anxious,Healthy,51986,Stable,High,Never,8,No
+55,Male,None,Employed,Wajir,Alcohol,Regular,3,Moderate,Stable,Chronic Conditions,25370,Broken,High,Never,3,Yes
+17,Male,Primary,Employed,Marsabit,Alcohol,Regular,11,Mild,Psychotic,Healthy,35247,Broken,High,Multiple,9,Yes
+53,Male,University,Employed,Mandera,Cocaine,Occasional,5,Moderate,Psychotic,Minor Issues,75922,Broken,Moderate,Never,8,No
+20,Male,University,Unemployed,Isiolo,Bhang,Regular,17,Moderate,Stable,Healthy,434,Stable,High,Once,18,Yes
+22,Male,Primary,Student,Garissa,Bhang,Regular,7,Severe,Stable,Healthy,62982,Broken,High,Never,14,Yes
+41,Male,Primary,Employed,Wajir,Miraa,Occasional,10,Moderate,Stable,Chronic Conditions,65180,Broken,Moderate,Once,18,Yes
+23,Male,Secondary,Unemployed,Isiolo,Heroin,Heavy,11,Mild,Psychotic,Healthy,34474,Broken,Low,Never,1,No
+51,Male,University,Unemployed,Mandera,Alcohol,Occasional,3,Moderate,Depressed,Minor Issues,24644,Broken,Moderate,Never,9,No
+47,Female,Secondary,Unemployed,Marsabit,Alcohol,Regular,10,Moderate,Stable,Healthy,38493,Orphan,High,Once,18,Yes
+56,Female,Primary,Unemployed,Wajir,Miraa,Regular,10,Mild,Stable,Minor Issues,83824,Stable,High,Never,16,Yes
+58,Male,Primary,Employed,Isiolo,Miraa,Regular,14,Moderate,Stable,Minor Issues,3959,Stable,High,Once,19,Yes
+38,Female,Secondary,Employed,Isiolo,Miraa,Occasional,12,Severe,Depressed,Chronic Conditions,47289,Stable,High,Never,1,Yes
+29,Male,None,Unemployed,Isiolo,Heroin,Regular,15,Mild,Stable,Chronic Conditions,11143,Stable,High,Once,18,Yes
+46,Female,Secondary,Unemployed,Mandera,Alcohol,Regular,10,Moderate,Psychotic,Minor Issues,39593,Orphan,Moderate,Multiple,16,Yes
+46,Female,Primary,Employed,Mandera,Miraa,Regular,10,Mild,Depressed,Healthy,39115,Orphan,Moderate,Never,17,Yes
+38,Male,Secondary,Employed,Mandera,Miraa,Heavy,19,Mild,Depressed,Minor Issues,22540,Stable,Low,Never,16,No
+55,Male,None,Student,Garissa,Alcohol,Regular,1,Mild,Stable,Minor Issues,35481,Stable,Moderate,Multiple,1,No
+26,Male,Secondary,Unemployed,Isiolo,Heroin,Occasional,10,Mild,Stable,Healthy,95505,Stable,Moderate,Once,18,Yes
+53,Male,Primary,Student,Wajir,Bhang,Occasional,2,Severe,Stable,Healthy,77097,Broken,High,Never,0,Yes
+16,Male,Secondary,Unemployed,Mandera,Bhang,Occasional,17,Mild,Stable,Chronic Conditions,22578,Stable,Moderate,Never,10,No
+17,Male,None,Employed,Mandera,Heroin,Occasional,7,Moderate,Stable,Healthy,12787,Stable,Low,Never,9,Yes
+51,Male,Secondary,Unemployed,Isiolo,Bhang,Occasional,7,Mild,Psychotic,Healthy,72048,Stable,Low,Never,4,No
+31,Female,Secondary,Unemployed,Mandera,Alcohol,Occasional,9,Severe,Stable,Chronic Conditions,52879,Stable,Moderate,Multiple,15,Yes
+16,Female,Secondary,Employed,Garissa,Bhang,Occasional,2,Moderate,Stable,Healthy,10596,Orphan,Moderate,Once,4,No
+16,Male,Secondary,Unemployed,Garissa,Miraa,Occasional,14,Moderate,Stable,Healthy,97282,Stable,Low,Once,11,No
+42,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,17,Mild,Stable,Minor Issues,60669,Stable,Low,Never,3,No
+37,Male,Secondary,Employed,Isiolo,Alcohol,Occasional,1,Moderate,Psychotic,Healthy,19930,Stable,Moderate,Never,5,No
+51,Male,Primary,Unemployed,Isiolo,Bhang,Occasional,9,Mild,Stable,Minor Issues,47950,Stable,Low,Multiple,18,No
+46,Female,Secondary,Unemployed,Isiolo,Bhang,Regular,19,Severe,Stable,Healthy,95737,Broken,Low,Never,8,Yes
+47,Male,Primary,Student,Marsabit,Alcohol,Regular,4,Moderate,Depressed,Healthy,18687,Stable,Low,Never,11,Yes
+15,Male,None,Employed,Mandera,Bhang,Occasional,8,Moderate,Stable,Healthy,52833,Stable,Moderate,Never,14,Yes
+33,Male,None,Employed,Isiolo,Cocaine,Regular,13,Moderate,Stable,Chronic Conditions,35989,Broken,Moderate,Once,15,No
+16,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,4,Mild,Stable,Healthy,30183,Stable,Low,Never,12,No
+58,Male,Secondary,Employed,Wajir,Alcohol,Occasional,9,Moderate,Stable,Healthy,20758,Broken,High,Never,6,Yes
+40,Female,Secondary,Unemployed,Wajir,Bhang,Occasional,9,Moderate,Stable,Healthy,1082,Stable,Low,Multiple,19,Yes
+46,Male,Secondary,Unemployed,Isiolo,Alcohol,Regular,18,Moderate,Stable,Healthy,96368,Stable,Low,Once,3,No
+20,Male,Secondary,Employed,Wajir,Bhang,Regular,12,Moderate,Anxious,Healthy,45891,Broken,Low,Never,10,Yes
+46,Male,Primary,Unemployed,Wajir,Alcohol,Occasional,10,Mild,Stable,Healthy,45810,Broken,Low,Once,7,Yes
+18,Female,None,Unemployed,Marsabit,Miraa,Occasional,11,Mild,Depressed,Minor Issues,46901,Broken,Low,Never,5,No
+25,Female,Primary,Employed,Garissa,Bhang,Heavy,7,Severe,Depressed,Healthy,83512,Stable,Low,Never,9,Yes
+31,Male,Primary,Student,Garissa,Bhang,Occasional,9,Moderate,Depressed,Minor Issues,71062,Stable,Moderate,Once,6,Yes
+52,Male,None,Unemployed,Marsabit,Heroin,Occasional,6,Moderate,Stable,Minor Issues,96622,Stable,Moderate,Never,6,Yes
+38,Male,Primary,Unemployed,Marsabit,Heroin,Heavy,19,Severe,Stable,Healthy,21563,Broken,Moderate,Never,3,Yes
+19,Male,Secondary,Unemployed,Wajir,Bhang,Heavy,16,Mild,Depressed,Healthy,72008,Broken,Moderate,Once,2,Yes
+48,Female,Secondary,Unemployed,Mandera,Bhang,Regular,15,Severe,Depressed,Minor Issues,2775,Stable,Low,Multiple,6,Yes
+20,Male,University,Student,Wajir,Alcohol,Regular,7,Severe,Depressed,Minor Issues,15828,Broken,High,Once,3,Yes
+36,Male,University,Unemployed,Marsabit,Miraa,Occasional,16,Severe,Stable,Healthy,17974,Broken,Low,Never,12,Yes
+25,Male,Secondary,Unemployed,Garissa,Alcohol,Occasional,5,Severe,Anxious,Chronic Conditions,22388,Stable,Moderate,Never,19,Yes
+30,Male,Primary,Unemployed,Wajir,Heroin,Regular,16,Mild,Stable,Healthy,80591,Broken,Low,Never,16,Yes
+47,Male,Secondary,Employed,Mandera,Miraa,Occasional,1,Mild,Stable,Healthy,18615,Stable,High,Never,6,No
+23,Female,Secondary,Unemployed,Wajir,Miraa,Regular,19,Moderate,Stable,Healthy,37886,Stable,Moderate,Never,16,Yes
+20,Male,None,Employed,Isiolo,Alcohol,Heavy,5,Mild,Stable,Chronic Conditions,22838,Orphan,Low,Once,3,No
+30,Male,Primary,Employed,Wajir,Bhang,Heavy,7,Mild,Stable,Minor Issues,40728,Stable,Moderate,Never,10,No
+43,Male,Secondary,Employed,Marsabit,Heroin,Occasional,19,Moderate,Depressed,Minor Issues,78000,Stable,Low,Never,2,Yes
+17,Male,Primary,Student,Garissa,Miraa,Regular,5,Mild,Anxious,Healthy,52798,Broken,Moderate,Once,10,No
+34,Male,Secondary,Unemployed,Garissa,Heroin,Regular,17,Severe,Anxious,Healthy,72776,Orphan,Moderate,Never,2,Yes
+50,Male,Secondary,Unemployed,Marsabit,Alcohol,Heavy,8,Severe,Stable,Healthy,70478,Orphan,Low,Multiple,11,No
+33,Female,None,Unemployed,Isiolo,Miraa,Occasional,1,Severe,Depressed,Chronic Conditions,19622,Broken,Low,Never,0,Yes
+40,Male,Primary,Unemployed,Marsabit,Heroin,Occasional,2,Moderate,Stable,Healthy,13536,Stable,Low,Multiple,3,No
+17,Male,Primary,Student,Wajir,Miraa,Occasional,15,Severe,Stable,Healthy,67136,Orphan,Moderate,Multiple,13,Yes
+33,Male,None,Unemployed,Marsabit,Cocaine,Occasional,18,Severe,Stable,Healthy,5700,Broken,Low,Multiple,0,No
+34,Male,None,Employed,Marsabit,Alcohol,Occasional,11,Moderate,Stable,Chronic Conditions,38839,Stable,Moderate,Never,13,Yes
+46,Female,Secondary,Employed,Isiolo,Alcohol,Regular,10,Mild,Stable,Healthy,10248,Broken,High,Multiple,12,No
+21,Female,Primary,Unemployed,Wajir,Cocaine,Regular,4,Severe,Stable,Healthy,45291,Stable,Low,Never,12,Yes
+55,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,5,Severe,Depressed,Healthy,82629,Stable,High,Never,14,No
+47,Male,Primary,Employed,Mandera,Cocaine,Regular,4,Moderate,Anxious,Chronic Conditions,84891,Broken,Moderate,Never,16,Yes
+54,Male,University,Employed,Garissa,Cocaine,Occasional,13,Mild,Stable,Chronic Conditions,17177,Broken,Low,Never,11,Yes
+53,Male,Primary,Unemployed,Marsabit,Alcohol,Heavy,13,Moderate,Psychotic,Minor Issues,19483,Stable,Moderate,Never,13,No
+32,Male,Primary,Employed,Garissa,Miraa,Heavy,18,Mild,Depressed,Healthy,43815,Stable,Moderate,Never,11,No
+54,Male,University,Unemployed,Isiolo,Alcohol,Heavy,2,Severe,Depressed,Healthy,38533,Broken,Moderate,Never,17,Yes
+15,Male,Secondary,Student,Mandera,Miraa,Heavy,16,Severe,Depressed,Chronic Conditions,26,Stable,Low,Once,3,No
+25,Male,None,Unemployed,Marsabit,Alcohol,Occasional,1,Mild,Stable,Healthy,60611,Stable,Low,Never,13,No
+42,Female,Secondary,Employed,Isiolo,Alcohol,Occasional,19,Moderate,Anxious,Healthy,87242,Broken,Moderate,Once,18,No
+39,Male,Primary,Unemployed,Isiolo,Miraa,Regular,9,Mild,Depressed,Healthy,24660,Broken,Moderate,Multiple,12,Yes
+37,Male,Primary,Unemployed,Marsabit,Miraa,Heavy,3,Moderate,Psychotic,Chronic Conditions,55103,Broken,Moderate,Never,17,Yes
+45,Female,None,Unemployed,Isiolo,Cocaine,Occasional,7,Mild,Depressed,Healthy,52253,Broken,Low,Once,10,No
+44,Male,None,Student,Marsabit,Heroin,Occasional,10,Moderate,Anxious,Minor Issues,42082,Broken,High,Multiple,5,Yes
+56,Male,Secondary,Employed,Marsabit,Bhang,Heavy,1,Mild,Depressed,Chronic Conditions,16258,Broken,High,Never,8,Yes
+49,Male,Primary,Unemployed,Wajir,Miraa,Occasional,10,Mild,Stable,Healthy,98315,Stable,Low,Never,11,Yes
+21,Male,Primary,Unemployed,Garissa,Heroin,Regular,9,Moderate,Stable,Healthy,89690,Broken,Low,Multiple,18,Yes
+30,Female,Secondary,Unemployed,Isiolo,Miraa,Regular,15,Mild,Stable,Chronic Conditions,95220,Stable,High,Multiple,13,No
+40,Female,Secondary,Employed,Isiolo,Bhang,Occasional,15,Moderate,Stable,Chronic Conditions,15389,Stable,High,Once,14,No
+16,Male,None,Unemployed,Wajir,Cocaine,Occasional,3,Mild,Stable,Chronic Conditions,91860,Stable,Moderate,Never,10,Yes
+15,Male,Secondary,Unemployed,Wajir,Miraa,Regular,5,Moderate,Anxious,Minor Issues,27685,Broken,High,Multiple,5,Yes
+26,Male,None,Employed,Wajir,Bhang,Regular,9,Severe,Depressed,Healthy,59220,Stable,Moderate,Never,13,Yes
+19,Male,Secondary,Employed,Mandera,Heroin,Heavy,9,Severe,Psychotic,Chronic Conditions,27195,Stable,Low,Never,2,Yes
+51,Male,Secondary,Unemployed,Mandera,Cocaine,Occasional,7,Severe,Anxious,Healthy,21797,Broken,Moderate,Never,18,Yes
+46,Female,University,Employed,Mandera,Bhang,Occasional,12,Severe,Depressed,Chronic Conditions,71310,Broken,Moderate,Never,19,No
+23,Male,None,Employed,Marsabit,Alcohol,Regular,9,Mild,Anxious,Chronic Conditions,97169,Broken,High,Once,10,No
+55,Female,None,Employed,Isiolo,Miraa,Regular,6,Mild,Depressed,Minor Issues,66332,Stable,Low,Multiple,16,Yes
+49,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,2,Moderate,Anxious,Chronic Conditions,93925,Stable,Moderate,Once,16,No
+33,Male,Primary,Unemployed,Marsabit,Bhang,Regular,9,Severe,Stable,Minor Issues,62907,Broken,Moderate,Never,2,Yes
+30,Male,Primary,Unemployed,Isiolo,Alcohol,Occasional,17,Severe,Stable,Healthy,7188,Stable,Low,Once,13,No
+17,Female,University,Employed,Isiolo,Heroin,Occasional,1,Mild,Stable,Minor Issues,23696,Broken,Low,Once,6,Yes
+34,Female,Primary,Unemployed,Wajir,Alcohol,Occasional,19,Mild,Depressed,Healthy,2024,Stable,High,Never,18,No
+38,Female,Primary,Unemployed,Wajir,Alcohol,Occasional,6,Mild,Depressed,Minor Issues,73202,Orphan,Moderate,Multiple,2,Yes
+47,Male,Secondary,Unemployed,Marsabit,Miraa,Regular,5,Moderate,Stable,Healthy,35985,Stable,Moderate,Multiple,1,Yes
+38,Male,Primary,Student,Wajir,Bhang,Regular,2,Moderate,Stable,Healthy,6584,Stable,High,Once,16,Yes
+25,Female,Secondary,Employed,Isiolo,Alcohol,Regular,9,Mild,Anxious,Chronic Conditions,90998,Broken,Low,Never,8,Yes
+22,Male,None,Unemployed,Wajir,Miraa,Heavy,14,Moderate,Depressed,Chronic Conditions,27044,Stable,High,Once,5,Yes
+50,Male,Primary,Employed,Mandera,Miraa,Occasional,4,Moderate,Stable,Healthy,5285,Stable,Moderate,Multiple,8,Yes
+52,Male,None,Unemployed,Wajir,Alcohol,Occasional,4,Moderate,Depressed,Minor Issues,63115,Broken,Moderate,Never,4,Yes
+54,Female,None,Employed,Isiolo,Alcohol,Occasional,15,Mild,Depressed,Minor Issues,7370,Stable,Moderate,Multiple,1,No
+34,Female,University,Employed,Marsabit,Heroin,Occasional,8,Severe,Psychotic,Chronic Conditions,17903,Stable,High,Never,14,Yes
+49,Male,None,Employed,Garissa,Miraa,Regular,4,Moderate,Stable,Healthy,32499,Stable,Low,Once,8,No
+39,Female,Secondary,Unemployed,Wajir,Alcohol,Regular,16,Severe,Stable,Minor Issues,97904,Stable,Low,Once,18,Yes
+49,Female,Primary,Employed,Isiolo,Heroin,Regular,4,Severe,Stable,Chronic Conditions,22995,Stable,Low,Once,9,No
+39,Male,Primary,Unemployed,Garissa,Cocaine,Occasional,16,Mild,Stable,Healthy,35200,Broken,Low,Multiple,3,No
+43,Male,University,Unemployed,Garissa,Bhang,Occasional,12,Mild,Anxious,Chronic Conditions,88377,Broken,Moderate,Never,9,Yes
+32,Female,None,Employed,Mandera,Miraa,Regular,16,Moderate,Stable,Chronic Conditions,70402,Stable,High,Never,7,No
+32,Male,Secondary,Unemployed,Garissa,Heroin,Occasional,19,Mild,Psychotic,Chronic Conditions,13566,Stable,High,Once,12,Yes
+16,Male,University,Employed,Isiolo,Cocaine,Regular,8,Severe,Stable,Healthy,37822,Orphan,Low,Never,6,No
+49,Male,Secondary,Unemployed,Isiolo,Bhang,Heavy,6,Moderate,Psychotic,Healthy,51222,Orphan,Moderate,Never,6,Yes
+30,Female,University,Unemployed,Wajir,Miraa,Occasional,10,Severe,Stable,Chronic Conditions,94088,Stable,Moderate,Never,3,Yes
+55,Female,None,Employed,Wajir,Miraa,Regular,5,Mild,Anxious,Healthy,90450,Broken,Low,Never,14,Yes
+50,Female,Primary,Employed,Wajir,Bhang,Regular,18,Mild,Anxious,Minor Issues,50668,Broken,High,Once,11,Yes
+47,Male,Primary,Employed,Garissa,Alcohol,Occasional,10,Moderate,Psychotic,Healthy,63853,Stable,High,Once,15,Yes
+18,Female,Secondary,Student,Garissa,Miraa,Regular,10,Mild,Stable,Healthy,54643,Stable,High,Never,5,No
+47,Female,University,Unemployed,Mandera,Heroin,Occasional,7,Moderate,Stable,Healthy,22333,Stable,Low,Never,8,Yes
+28,Male,Primary,Unemployed,Wajir,Bhang,Occasional,18,Severe,Depressed,Minor Issues,15958,Broken,Moderate,Never,2,Yes
+35,Female,Secondary,Unemployed,Marsabit,Miraa,Regular,1,Moderate,Stable,Healthy,52442,Broken,Low,Never,7,Yes
+34,Male,None,Employed,Mandera,Bhang,Heavy,7,Moderate,Stable,Minor Issues,20954,Broken,Low,Never,6,Yes
+22,Male,Secondary,Unemployed,Marsabit,Alcohol,Occasional,1,Mild,Stable,Minor Issues,75174,Stable,Moderate,Never,3,Yes
+21,Male,Primary,Unemployed,Garissa,Miraa,Occasional,15,Mild,Depressed,Minor Issues,99683,Broken,High,Once,12,No
+17,Male,University,Employed,Mandera,Bhang,Heavy,4,Severe,Depressed,Minor Issues,9675,Broken,High,Once,18,Yes
+31,Male,Secondary,Employed,Mandera,Alcohol,Heavy,10,Severe,Stable,Healthy,89590,Broken,High,Never,6,Yes
+47,Male,Primary,Employed,Isiolo,Alcohol,Regular,9,Moderate,Stable,Healthy,31661,Stable,High,Once,9,Yes
+26,Male,None,Unemployed,Garissa,Cocaine,Occasional,2,Severe,Stable,Healthy,64289,Broken,Low,Multiple,11,Yes
+36,Female,None,Student,Garissa,Alcohol,Heavy,14,Moderate,Depressed,Minor Issues,17184,Stable,Moderate,Never,2,No
+36,Male,Primary,Employed,Mandera,Alcohol,Occasional,16,Mild,Stable,Minor Issues,47963,Broken,Low,Never,11,Yes
+44,Male,Primary,Unemployed,Garissa,Cocaine,Regular,1,Mild,Stable,Healthy,25822,Broken,Low,Once,18,Yes
+52,Male,University,Employed,Mandera,Bhang,Occasional,2,Severe,Anxious,Healthy,62303,Stable,Moderate,Never,14,Yes
+52,Female,Secondary,Student,Isiolo,Bhang,Regular,7,Mild,Psychotic,Minor Issues,76465,Broken,Moderate,Once,7,Yes
+59,Male,Secondary,Employed,Mandera,Heroin,Occasional,10,Moderate,Psychotic,Healthy,5267,Stable,Moderate,Multiple,11,Yes
+22,Male,None,Unemployed,Garissa,Alcohol,Regular,1,Moderate,Anxious,Chronic Conditions,52647,Broken,Low,Never,19,Yes
+41,Female,University,Unemployed,Garissa,Bhang,Occasional,13,Moderate,Stable,Healthy,62814,Stable,Low,Once,5,No
+41,Male,Secondary,Unemployed,Mandera,Miraa,Occasional,1,Moderate,Depressed,Chronic Conditions,36025,Broken,Low,Once,9,Yes
+48,Male,None,Unemployed,Mandera,Heroin,Regular,5,Mild,Stable,Healthy,77605,Orphan,Low,Never,1,Yes
+35,Male,Secondary,Employed,Mandera,Miraa,Heavy,16,Mild,Depressed,Healthy,981,Stable,Low,Never,12,Yes
+44,Female,Secondary,Employed,Wajir,Bhang,Heavy,15,Moderate,Stable,Healthy,43436,Broken,Moderate,Multiple,6,Yes
+47,Male,None,Employed,Garissa,Miraa,Occasional,17,Moderate,Depressed,Healthy,18472,Stable,High,Multiple,7,Yes
+42,Female,Primary,Employed,Garissa,Miraa,Regular,16,Moderate,Depressed,Healthy,19336,Stable,Moderate,Once,15,No
+47,Male,Primary,Unemployed,Wajir,Bhang,Regular,13,Moderate,Stable,Healthy,25587,Broken,Moderate,Multiple,10,No
+19,Female,None,Employed,Mandera,Bhang,Occasional,11,Mild,Depressed,Minor Issues,77192,Broken,Low,Never,3,Yes
+33,Female,University,Employed,Isiolo,Bhang,Occasional,17,Severe,Stable,Healthy,92862,Orphan,High,Never,16,Yes
+18,Female,Secondary,Unemployed,Mandera,Miraa,Regular,17,Moderate,Stable,Minor Issues,84046,Broken,Low,Never,15,Yes
+49,Male,Secondary,Student,Mandera,Miraa,Heavy,2,Mild,Stable,Healthy,53013,Broken,High,Never,18,Yes
+31,Female,Primary,Unemployed,Wajir,Bhang,Regular,13,Moderate,Stable,Chronic Conditions,84511,Broken,High,Multiple,10,No
+58,Male,Primary,Employed,Garissa,Heroin,Regular,14,Severe,Stable,Minor Issues,9665,Broken,High,Multiple,6,No
+42,Male,Secondary,Employed,Mandera,Bhang,Regular,11,Severe,Anxious,Healthy,27097,Stable,Low,Multiple,12,No
+44,Male,Secondary,Student,Garissa,Cocaine,Occasional,10,Mild,Stable,Healthy,91277,Stable,Moderate,Once,18,Yes
+43,Female,None,Employed,Marsabit,Heroin,Regular,3,Moderate,Stable,Healthy,52474,Stable,Low,Never,16,Yes
+20,Female,Secondary,Employed,Garissa,Miraa,Regular,17,Mild,Stable,Healthy,71973,Broken,Low,Never,12,No
+49,Female,Secondary,Unemployed,Isiolo,Bhang,Occasional,15,Mild,Depressed,Minor Issues,25185,Broken,Low,Never,11,No
+55,Male,Primary,Unemployed,Isiolo,Cocaine,Heavy,9,Moderate,Depressed,Minor Issues,75911,Broken,High,Once,6,No
+51,Male,None,Unemployed,Mandera,Bhang,Occasional,10,Moderate,Depressed,Chronic Conditions,92643,Stable,High,Never,0,Yes
+38,Female,Secondary,Employed,Garissa,Heroin,Heavy,8,Moderate,Depressed,Minor Issues,30484,Orphan,Low,Multiple,0,Yes
+43,Male,Primary,Employed,Mandera,Bhang,Occasional,13,Mild,Anxious,Chronic Conditions,45610,Stable,Moderate,Multiple,19,Yes
+45,Male,Primary,Student,Wajir,Miraa,Occasional,18,Mild,Anxious,Chronic Conditions,50807,Broken,High,Never,13,Yes
+49,Male,None,Employed,Isiolo,Alcohol,Occasional,5,Moderate,Depressed,Chronic Conditions,50907,Stable,Moderate,Never,14,Yes
+47,Male,Primary,Unemployed,Mandera,Miraa,Regular,6,Mild,Stable,Healthy,57389,Stable,Low,Once,10,No
+35,Male,Secondary,Unemployed,Wajir,Cocaine,Occasional,17,Mild,Depressed,Healthy,25835,Broken,Moderate,Never,8,Yes
+46,Male,Secondary,Unemployed,Mandera,Bhang,Regular,11,Mild,Depressed,Healthy,95279,Orphan,Moderate,Once,16,Yes
+37,Male,Primary,Employed,Garissa,Miraa,Regular,16,Moderate,Depressed,Minor Issues,96453,Stable,Moderate,Once,3,No
+47,Male,University,Employed,Garissa,Cocaine,Regular,9,Mild,Anxious,Healthy,53790,Stable,Moderate,Never,19,Yes
+17,Female,University,Unemployed,Garissa,Miraa,Occasional,2,Moderate,Depressed,Healthy,76960,Stable,Moderate,Never,18,No
+32,Male,University,Unemployed,Garissa,Miraa,Regular,5,Mild,Anxious,Healthy,9643,Stable,Low,Never,6,Yes
+39,Male,Primary,Student,Marsabit,Bhang,Occasional,1,Mild,Stable,Healthy,75846,Stable,Low,Multiple,0,Yes
+56,Male,Primary,Employed,Wajir,Bhang,Regular,4,Moderate,Stable,Minor Issues,18951,Broken,Low,Never,8,No
+45,Male,University,Employed,Wajir,Alcohol,Occasional,4,Mild,Stable,Healthy,92104,Orphan,Moderate,Multiple,12,No
+17,Female,Secondary,Student,Garissa,Miraa,Heavy,3,Moderate,Anxious,Minor Issues,15233,Stable,Low,Once,1,Yes
+54,Female,None,Unemployed,Marsabit,Miraa,Regular,9,Mild,Anxious,Minor Issues,13200,Broken,High,Once,1,No
+38,Male,None,Unemployed,Garissa,Miraa,Regular,12,Moderate,Depressed,Healthy,52275,Stable,Moderate,Never,14,Yes
+46,Male,Primary,Employed,Marsabit,Miraa,Regular,10,Mild,Depressed,Minor Issues,87084,Stable,Moderate,Once,16,Yes
+36,Female,University,Unemployed,Garissa,Miraa,Occasional,2,Mild,Depressed,Minor Issues,76068,Stable,High,Once,12,Yes
+37,Female,Secondary,Unemployed,Isiolo,Alcohol,Occasional,11,Moderate,Anxious,Healthy,89001,Broken,High,Once,6,Yes
+16,Male,Primary,Unemployed,Isiolo,Miraa,Heavy,10,Severe,Anxious,Healthy,21291,Stable,High,Once,8,No
+41,Male,None,Unemployed,Mandera,Alcohol,Heavy,6,Mild,Depressed,Healthy,42448,Stable,Moderate,Once,11,No
+56,Male,Secondary,Employed,Garissa,Miraa,Occasional,18,Moderate,Depressed,Minor Issues,30580,Stable,Low,Multiple,2,No
+16,Female,Secondary,Unemployed,Wajir,Heroin,Regular,2,Moderate,Stable,Minor Issues,91685,Stable,High,Never,14,No
+40,Male,Primary,Employed,Mandera,Bhang,Regular,2,Moderate,Depressed,Healthy,21346,Stable,High,Multiple,6,Yes
+31,Female,Secondary,Unemployed,Isiolo,Miraa,Regular,10,Severe,Stable,Healthy,10619,Broken,High,Never,0,No
+54,Male,University,Student,Garissa,Alcohol,Occasional,16,Mild,Stable,Healthy,1766,Broken,Moderate,Multiple,13,No
+47,Male,Primary,Employed,Mandera,Alcohol,Occasional,12,Severe,Anxious,Chronic Conditions,3549,Broken,Moderate,Multiple,18,No
+23,Male,Secondary,Unemployed,Garissa,Miraa,Occasional,1,Mild,Depressed,Healthy,18693,Stable,Low,Never,15,No
+57,Male,Primary,Employed,Isiolo,Alcohol,Heavy,8,Mild,Psychotic,Chronic Conditions,62019,Stable,Moderate,Once,9,No
+53,Male,Secondary,Unemployed,Mandera,Miraa,Regular,16,Severe,Stable,Healthy,97458,Stable,Low,Once,0,Yes
+43,Male,Secondary,Student,Isiolo,Alcohol,Regular,18,Moderate,Stable,Minor Issues,48328,Stable,Low,Never,4,No
+56,Male,Secondary,Employed,Marsabit,Heroin,Heavy,13,Moderate,Stable,Minor Issues,77701,Broken,Moderate,Never,2,No
+40,Female,Secondary,Employed,Isiolo,Miraa,Regular,15,Moderate,Stable,Minor Issues,89100,Stable,Moderate,Never,16,No
+49,Male,Primary,Unemployed,Garissa,Alcohol,Heavy,12,Moderate,Stable,Healthy,25301,Stable,Low,Multiple,17,Yes
+39,Male,University,Employed,Wajir,Heroin,Regular,8,Mild,Stable,Minor Issues,44763,Broken,High,Multiple,18,Yes
+38,Female,Secondary,Unemployed,Isiolo,Miraa,Occasional,10,Moderate,Stable,Healthy,20765,Stable,High,Once,17,No
+27,Female,None,Student,Wajir,Alcohol,Heavy,14,Mild,Stable,Healthy,44787,Orphan,Moderate,Once,15,Yes
+21,Female,Secondary,Unemployed,Marsabit,Miraa,Regular,5,Severe,Stable,Minor Issues,7425,Stable,Moderate,Once,1,No
+50,Female,Secondary,Employed,Mandera,Miraa,Occasional,18,Severe,Depressed,Chronic Conditions,12857,Broken,High,Never,14,Yes
+59,Male,Primary,Unemployed,Mandera,Bhang,Occasional,19,Mild,Stable,Minor Issues,52771,Stable,Low,Never,12,Yes
+34,Male,University,Unemployed,Wajir,Alcohol,Occasional,15,Moderate,Depressed,Healthy,92999,Orphan,Moderate,Once,12,Yes
+15,Female,University,Employed,Mandera,Miraa,Regular,6,Mild,Depressed,Minor Issues,22444,Stable,Low,Multiple,15,Yes
+22,Male,Primary,Unemployed,Isiolo,Alcohol,Heavy,11,Mild,Stable,Minor Issues,41457,Broken,Low,Once,7,Yes
+30,Male,University,Unemployed,Wajir,Alcohol,Heavy,11,Severe,Anxious,Chronic Conditions,79741,Stable,Moderate,Once,10,Yes
+28,Female,None,Unemployed,Garissa,Heroin,Heavy,18,Mild,Depressed,Chronic Conditions,704,Broken,Moderate,Once,7,Yes
+26,Male,Primary,Employed,Isiolo,Bhang,Occasional,18,Moderate,Depressed,Minor Issues,5452,Stable,Low,Never,9,Yes
+37,Male,None,Unemployed,Isiolo,Miraa,Occasional,10,Severe,Stable,Healthy,38862,Stable,Low,Once,0,Yes
+29,Male,University,Employed,Isiolo,Miraa,Occasional,2,Severe,Depressed,Minor Issues,61471,Broken,Moderate,Never,11,Yes
+42,Male,Secondary,Employed,Garissa,Alcohol,Heavy,9,Moderate,Anxious,Minor Issues,69217,Orphan,Moderate,Never,8,Yes
+48,Male,None,Unemployed,Marsabit,Heroin,Occasional,14,Moderate,Stable,Chronic Conditions,86058,Stable,Moderate,Once,4,No
+16,Male,Primary,Unemployed,Mandera,Alcohol,Regular,19,Moderate,Stable,Healthy,18300,Broken,Low,Once,8,Yes
+46,Female,Secondary,Employed,Wajir,Alcohol,Regular,10,Severe,Stable,Healthy,9566,Stable,Moderate,Never,15,Yes
+37,Male,None,Employed,Marsabit,Miraa,Regular,4,Moderate,Depressed,Healthy,7501,Broken,Low,Once,17,No
+36,Male,University,Employed,Wajir,Miraa,Occasional,6,Moderate,Stable,Minor Issues,1845,Broken,Low,Once,7,Yes
+39,Female,Secondary,Employed,Mandera,Miraa,Heavy,14,Mild,Depressed,Chronic Conditions,39181,Stable,Moderate,Once,10,No
+36,Female,Secondary,Employed,Garissa,Alcohol,Heavy,4,Mild,Stable,Healthy,57263,Broken,Moderate,Multiple,19,No
+36,Female,University,Employed,Isiolo,Miraa,Occasional,15,Moderate,Anxious,Minor Issues,78766,Broken,Low,Never,18,Yes
+56,Female,Primary,Unemployed,Isiolo,Miraa,Regular,16,Severe,Stable,Minor Issues,63038,Stable,Low,Multiple,3,Yes
+20,Male,University,Unemployed,Garissa,Alcohol,Heavy,7,Severe,Stable,Minor Issues,83290,Broken,Moderate,Once,19,Yes
+29,Male,Secondary,Unemployed,Marsabit,Heroin,Occasional,17,Severe,Depressed,Healthy,34404,Stable,Low,Once,9,Yes
+57,Male,Secondary,Unemployed,Marsabit,Alcohol,Regular,19,Moderate,Stable,Chronic Conditions,22564,Broken,Low,Once,12,Yes
+51,Male,None,Employed,Wajir,Miraa,Occasional,19,Moderate,Stable,Healthy,97898,Broken,Moderate,Never,19,Yes
+47,Male,University,Student,Garissa,Bhang,Regular,17,Severe,Stable,Minor Issues,57435,Stable,Low,Never,13,No
+22,Male,Primary,Unemployed,Marsabit,Alcohol,Occasional,6,Moderate,Depressed,Healthy,18227,Broken,Low,Once,1,Yes
+58,Female,None,Unemployed,Garissa,Bhang,Regular,11,Mild,Anxious,Healthy,90296,Broken,High,Once,3,Yes
+58,Male,None,Unemployed,Mandera,Heroin,Occasional,16,Moderate,Anxious,Chronic Conditions,95259,Broken,Moderate,Once,6,No
+19,Male,Secondary,Student,Isiolo,Alcohol,Regular,8,Severe,Stable,Healthy,47475,Stable,Moderate,Never,18,Yes
+53,Male,Secondary,Unemployed,Isiolo,Cocaine,Heavy,11,Mild,Stable,Healthy,17215,Stable,Moderate,Never,16,Yes
+18,Male,Secondary,Employed,Isiolo,Miraa,Heavy,7,Severe,Depressed,Minor Issues,71074,Broken,Moderate,Never,15,Yes
+20,Male,University,Unemployed,Garissa,Alcohol,Heavy,19,Mild,Depressed,Minor Issues,21699,Stable,High,Once,12,Yes
+59,Female,None,Unemployed,Garissa,Miraa,Regular,10,Moderate,Stable,Minor Issues,12454,Stable,Moderate,Never,17,No
+46,Male,Secondary,Unemployed,Wajir,Miraa,Occasional,9,Moderate,Stable,Healthy,48217,Broken,Low,Once,11,Yes
+44,Male,None,Unemployed,Isiolo,Bhang,Occasional,4,Moderate,Stable,Healthy,21711,Stable,Moderate,Never,0,Yes
+49,Male,University,Employed,Wajir,Bhang,Heavy,15,Moderate,Depressed,Healthy,15059,Broken,Moderate,Once,14,Yes
+54,Female,Secondary,Employed,Isiolo,Heroin,Occasional,13,Severe,Stable,Healthy,48398,Broken,Moderate,Never,2,Yes
+30,Male,Secondary,Student,Wajir,Cocaine,Occasional,2,Moderate,Anxious,Chronic Conditions,1286,Broken,Moderate,Never,5,Yes
+27,Male,Secondary,Unemployed,Wajir,Bhang,Regular,2,Mild,Stable,Healthy,34297,Stable,High,Once,13,No
+56,Male,Primary,Unemployed,Mandera,Bhang,Occasional,16,Moderate,Stable,Healthy,26485,Stable,Moderate,Once,5,No
+44,Male,Primary,Employed,Wajir,Miraa,Occasional,9,Mild,Stable,Healthy,59967,Stable,Low,Never,0,Yes
+33,Female,Secondary,Employed,Garissa,Miraa,Heavy,13,Mild,Stable,Healthy,97803,Broken,Low,Multiple,19,Yes
+31,Female,Primary,Unemployed,Wajir,Alcohol,Heavy,3,Mild,Stable,Minor Issues,54583,Stable,Moderate,Never,5,No
+33,Male,Primary,Unemployed,Isiolo,Bhang,Regular,9,Severe,Stable,Minor Issues,51630,Orphan,Low,Never,7,Yes
+42,Female,Primary,Unemployed,Wajir,Miraa,Heavy,13,Moderate,Stable,Healthy,27086,Broken,Low,Never,14,Yes
+40,Female,Secondary,Unemployed,Marsabit,Alcohol,Regular,2,Moderate,Stable,Healthy,16484,Broken,Low,Never,13,Yes
+51,Female,Primary,Unemployed,Isiolo,Alcohol,Regular,8,Mild,Stable,Healthy,68623,Stable,Low,Never,15,Yes
+40,Female,None,Employed,Marsabit,Miraa,Occasional,9,Mild,Psychotic,Minor Issues,59263,Stable,High,Never,19,Yes
+37,Male,Secondary,Unemployed,Isiolo,Miraa,Occasional,16,Severe,Depressed,Minor Issues,18675,Orphan,Low,Once,15,No
+23,Male,Secondary,Unemployed,Garissa,Miraa,Regular,2,Moderate,Depressed,Healthy,60664,Stable,Low,Never,18,No
+26,Male,None,Unemployed,Garissa,Bhang,Heavy,6,Severe,Stable,Healthy,24680,Stable,Low,Once,0,Yes
+15,Female,Primary,Unemployed,Garissa,Miraa,Regular,8,Mild,Stable,Minor Issues,17077,Stable,Moderate,Never,3,Yes
+15,Male,None,Student,Marsabit,Bhang,Occasional,5,Mild,Stable,Chronic Conditions,38174,Orphan,Low,Never,9,No
+48,Female,Primary,Employed,Mandera,Alcohol,Occasional,9,Severe,Depressed,Chronic Conditions,76968,Broken,Moderate,Never,19,Yes
+46,Female,Primary,Unemployed,Isiolo,Alcohol,Heavy,1,Moderate,Stable,Healthy,3491,Broken,Low,Once,17,No
+39,Male,Secondary,Employed,Garissa,Miraa,Occasional,9,Mild,Stable,Healthy,46126,Broken,Moderate,Once,1,Yes
+54,Female,Secondary,Unemployed,Isiolo,Miraa,Regular,10,Mild,Depressed,Healthy,3392,Stable,High,Multiple,3,Yes
+59,Male,Secondary,Employed,Marsabit,Alcohol,Occasional,4,Severe,Stable,Minor Issues,62257,Broken,Low,Never,14,Yes
+15,Male,Primary,Employed,Mandera,Miraa,Occasional,3,Moderate,Stable,Chronic Conditions,67804,Stable,Moderate,Once,3,No
+30,Female,Secondary,Unemployed,Marsabit,Alcohol,Regular,10,Moderate,Stable,Healthy,38400,Broken,Moderate,Once,15,Yes
+53,Male,Primary,Employed,Isiolo,Miraa,Regular,15,Mild,Depressed,Healthy,36551,Stable,Moderate,Never,14,Yes
+19,Female,University,Unemployed,Mandera,Miraa,Occasional,11,Mild,Depressed,Healthy,28088,Stable,Moderate,Never,17,Yes
+36,Female,Secondary,Student,Mandera,Bhang,Occasional,14,Severe,Stable,Healthy,80015,Broken,Moderate,Never,6,No
+43,Male,None,Employed,Marsabit,Heroin,Heavy,6,Mild,Stable,Healthy,25465,Stable,Moderate,Once,14,No
+17,Male,Secondary,Unemployed,Garissa,Alcohol,Occasional,12,Moderate,Depressed,Minor Issues,48155,Broken,Moderate,Never,10,No
+26,Male,Primary,Unemployed,Isiolo,Cocaine,Regular,13,Severe,Stable,Healthy,87893,Stable,Low,Once,18,No
+40,Male,Secondary,Unemployed,Wajir,Miraa,Heavy,17,Mild,Depressed,Healthy,5969,Stable,Low,Once,7,Yes
+30,Female,None,Employed,Wajir,Bhang,Occasional,16,Moderate,Depressed,Minor Issues,8981,Stable,Moderate,Once,0,Yes
+51,Male,None,Employed,Marsabit,Bhang,Heavy,3,Moderate,Stable,Healthy,21032,Broken,High,Never,2,Yes
+36,Male,University,Employed,Isiolo,Bhang,Occasional,2,Moderate,Stable,Healthy,54091,Stable,High,Once,4,Yes
+43,Male,Primary,Employed,Isiolo,Miraa,Regular,11,Moderate,Depressed,Healthy,24408,Broken,High,Never,17,No
+28,Male,Secondary,Employed,Marsabit,Miraa,Occasional,9,Mild,Stable,Chronic Conditions,24241,Stable,Moderate,Never,11,No
+42,Female,Primary,Unemployed,Isiolo,Alcohol,Heavy,3,Moderate,Stable,Minor Issues,47940,Stable,Moderate,Once,11,Yes
+19,Male,Secondary,Unemployed,Garissa,Alcohol,Occasional,18,Moderate,Depressed,Healthy,82938,Stable,Moderate,Never,18,No
+44,Female,Secondary,Unemployed,Marsabit,Miraa,Occasional,15,Moderate,Stable,Minor Issues,51105,Orphan,Moderate,Never,8,No
+19,Male,Secondary,Unemployed,Garissa,Miraa,Heavy,14,Mild,Stable,Healthy,91302,Broken,Moderate,Never,10,Yes
+26,Female,Primary,Employed,Isiolo,Miraa,Regular,2,Moderate,Stable,Minor Issues,61050,Stable,Low,Never,16,Yes
+30,Male,Primary,Employed,Marsabit,Alcohol,Regular,17,Severe,Depressed,Minor Issues,3657,Broken,Low,Never,15,Yes
+40,Male,None,Employed,Isiolo,Bhang,Occasional,8,Moderate,Stable,Chronic Conditions,21230,Broken,Moderate,Never,3,Yes
+40,Female,Primary,Employed,Marsabit,Heroin,Regular,10,Moderate,Psychotic,Healthy,18680,Stable,Moderate,Once,9,Yes
+35,Male,Secondary,Unemployed,Isiolo,Cocaine,Occasional,18,Moderate,Depressed,Chronic Conditions,82694,Broken,Low,Never,14,Yes
+53,Female,University,Unemployed,Garissa,Miraa,Occasional,19,Severe,Stable,Chronic Conditions,84731,Stable,Low,Multiple,18,Yes
+50,Male,University,Employed,Garissa,Bhang,Regular,8,Severe,Stable,Chronic Conditions,42340,Broken,High,Never,2,No
+47,Male,Secondary,Employed,Isiolo,Heroin,Occasional,8,Mild,Stable,Minor Issues,35950,Broken,Moderate,Never,4,Yes
+44,Male,Secondary,Unemployed,Marsabit,Miraa,Heavy,3,Moderate,Depressed,Healthy,78515,Stable,Moderate,Once,10,Yes
+51,Female,Secondary,Unemployed,Wajir,Miraa,Heavy,3,Mild,Anxious,Healthy,7867,Stable,Moderate,Never,4,No
+37,Male,Primary,Employed,Garissa,Cocaine,Regular,12,Moderate,Depressed,Healthy,80691,Orphan,Moderate,Multiple,6,Yes
+24,Male,University,Student,Garissa,Miraa,Heavy,17,Mild,Stable,Healthy,78542,Broken,Low,Once,5,Yes
+19,Male,Secondary,Student,Wajir,Miraa,Regular,4,Severe,Depressed,Minor Issues,4329,Broken,Moderate,Never,12,No
+50,Male,Secondary,Employed,Isiolo,Alcohol,Occasional,17,Mild,Stable,Minor Issues,88087,Stable,Moderate,Once,1,Yes
+48,Male,None,Employed,Marsabit,Alcohol,Regular,14,Moderate,Depressed,Chronic Conditions,35865,Stable,Low,Never,18,No
+45,Female,Primary,Unemployed,Isiolo,Heroin,Occasional,19,Moderate,Depressed,Healthy,66940,Stable,Low,Multiple,10,Yes
+24,Female,Primary,Student,Mandera,Bhang,Occasional,9,Mild,Stable,Healthy,37869,Stable,Low,Multiple,19,Yes
+33,Female,University,Unemployed,Garissa,Miraa,Heavy,12,Severe,Stable,Minor Issues,66905,Broken,Moderate,Once,4,Yes
+46,Female,Secondary,Employed,Mandera,Alcohol,Regular,5,Severe,Depressed,Healthy,83984,Broken,Low,Never,8,Yes
+15,Male,Primary,Employed,Garissa,Miraa,Heavy,11,Moderate,Depressed,Healthy,89711,Broken,Moderate,Never,5,No
+19,Female,University,Unemployed,Garissa,Miraa,Occasional,3,Moderate,Stable,Chronic Conditions,66252,Stable,Moderate,Never,16,No
+59,Male,None,Unemployed,Mandera,Alcohol,Regular,15,Mild,Stable,Minor Issues,79386,Broken,High,Never,18,No
+18,Male,Primary,Employed,Mandera,Heroin,Occasional,14,Moderate,Depressed,Healthy,1711,Orphan,Moderate,Never,7,No
+30,Male,None,Unemployed,Isiolo,Alcohol,Regular,11,Mild,Stable,Chronic Conditions,25801,Broken,Low,Multiple,6,Yes
+38,Male,Secondary,Unemployed,Mandera,Miraa,Regular,8,Moderate,Stable,Minor Issues,87287,Broken,Moderate,Never,4,No
+30,Female,University,Unemployed,Isiolo,Bhang,Regular,4,Severe,Stable,Minor Issues,90709,Orphan,Moderate,Once,14,No
+16,Male,Primary,Unemployed,Isiolo,Alcohol,Occasional,12,Mild,Stable,Chronic Conditions,53270,Broken,Low,Once,9,No
+42,Male,University,Unemployed,Isiolo,Heroin,Occasional,8,Severe,Depressed,Healthy,71622,Stable,Moderate,Multiple,15,No
+46,Male,Primary,Unemployed,Garissa,Bhang,Occasional,6,Mild,Psychotic,Minor Issues,55535,Stable,High,Never,8,Yes
+41,Female,University,Unemployed,Garissa,Bhang,Regular,15,Severe,Depressed,Healthy,76759,Orphan,Low,Never,6,Yes
+34,Male,Secondary,Employed,Mandera,Alcohol,Heavy,12,Mild,Stable,Healthy,16220,Stable,Moderate,Once,10,No
+38,Male,Secondary,Unemployed,Garissa,Alcohol,Occasional,16,Moderate,Depressed,Chronic Conditions,13392,Stable,High,Multiple,8,Yes
+26,Male,None,Employed,Mandera,Alcohol,Regular,16,Mild,Stable,Minor Issues,85587,Stable,Moderate,Multiple,16,Yes
+49,Female,University,Unemployed,Garissa,Miraa,Heavy,4,Severe,Stable,Minor Issues,2246,Broken,Moderate,Once,8,No
+47,Male,Secondary,Employed,Marsabit,Bhang,Regular,11,Moderate,Anxious,Chronic Conditions,20010,Orphan,Low,Never,2,Yes
+47,Male,Primary,Employed,Marsabit,Heroin,Regular,13,Mild,Stable,Chronic Conditions,68358,Stable,Low,Once,7,Yes
+57,Male,Secondary,Employed,Mandera,Bhang,Heavy,9,Moderate,Psychotic,Chronic Conditions,90203,Broken,Moderate,Never,18,Yes
+51,Male,Primary,Employed,Garissa,Cocaine,Occasional,4,Moderate,Stable,Healthy,17234,Broken,Moderate,Once,19,No
+26,Male,University,Unemployed,Garissa,Bhang,Occasional,12,Moderate,Depressed,Healthy,96190,Stable,High,Once,15,Yes
+17,Male,None,Unemployed,Isiolo,Miraa,Occasional,9,Severe,Stable,Healthy,49451,Stable,Low,Once,6,No
+15,Female,Secondary,Unemployed,Wajir,Alcohol,Heavy,13,Moderate,Stable,Healthy,75205,Orphan,Moderate,Multiple,6,Yes
+47,Male,Secondary,Employed,Mandera,Bhang,Heavy,16,Mild,Stable,Healthy,21784,Stable,Low,Once,19,Yes
+54,Male,None,Employed,Wajir,Alcohol,Regular,6,Mild,Anxious,Minor Issues,29672,Broken,Low,Never,12,Yes
+24,Female,Primary,Employed,Wajir,Alcohol,Occasional,10,Moderate,Depressed,Minor Issues,1082,Broken,Moderate,Never,2,No
+57,Male,None,Employed,Mandera,Miraa,Regular,13,Moderate,Anxious,Chronic Conditions,11148,Stable,Low,Multiple,11,Yes
+58,Male,Primary,Unemployed,Garissa,Heroin,Occasional,7,Mild,Depressed,Minor Issues,27494,Orphan,Low,Never,7,No
+43,Male,Primary,Employed,Mandera,Alcohol,Occasional,19,Mild,Anxious,Minor Issues,75093,Stable,Low,Never,12,No
+27,Male,Secondary,Employed,Wajir,Bhang,Regular,19,Moderate,Stable,Healthy,51952,Stable,Low,Never,19,No
+26,Female,Primary,Employed,Garissa,Heroin,Heavy,17,Severe,Stable,Healthy,36719,Stable,High,Once,15,No
+45,Male,Primary,Employed,Marsabit,Miraa,Heavy,13,Mild,Depressed,Healthy,48737,Stable,Moderate,Never,6,Yes
+16,Female,Secondary,Unemployed,Mandera,Alcohol,Regular,13,Moderate,Depressed,Minor Issues,59453,Broken,Low,Multiple,3,Yes
+49,Male,None,Unemployed,Mandera,Alcohol,Occasional,2,Moderate,Depressed,Healthy,39536,Broken,High,Multiple,11,No
+37,Male,University,Employed,Garissa,Bhang,Occasional,10,Moderate,Stable,Minor Issues,50604,Orphan,Moderate,Multiple,16,No
+31,Male,University,Employed,Marsabit,Bhang,Occasional,13,Mild,Stable,Minor Issues,50833,Stable,High,Never,0,No
+40,Male,Secondary,Employed,Marsabit,Heroin,Regular,9,Moderate,Anxious,Healthy,14039,Broken,Low,Multiple,16,No
+22,Male,Secondary,Employed,Garissa,Miraa,Heavy,1,Severe,Depressed,Healthy,67839,Broken,Moderate,Multiple,1,No
+43,Female,University,Employed,Isiolo,Alcohol,Occasional,14,Mild,Stable,Healthy,47931,Broken,High,Multiple,5,Yes
+40,Male,None,Student,Mandera,Alcohol,Regular,16,Moderate,Depressed,Healthy,39925,Broken,Low,Once,11,No
+24,Female,None,Unemployed,Mandera,Bhang,Occasional,15,Mild,Anxious,Minor Issues,51003,Stable,High,Once,10,No
+40,Male,Primary,Unemployed,Wajir,Alcohol,Occasional,1,Mild,Stable,Minor Issues,83817,Stable,High,Never,10,No
+48,Female,Secondary,Unemployed,Garissa,Miraa,Regular,17,Moderate,Anxious,Minor Issues,48897,Stable,High,Multiple,17,Yes
+55,Female,None,Unemployed,Wajir,Miraa,Occasional,13,Moderate,Anxious,Chronic Conditions,87745,Broken,Low,Never,7,No
+21,Female,Secondary,Unemployed,Wajir,Alcohol,Regular,15,Mild,Anxious,Minor Issues,93709,Orphan,Low,Never,6,No
+18,Female,University,Unemployed,Marsabit,Alcohol,Heavy,16,Moderate,Anxious,Chronic Conditions,42287,Stable,Low,Multiple,13,Yes
+59,Female,University,Unemployed,Mandera,Miraa,Regular,16,Moderate,Depressed,Healthy,90726,Stable,High,Never,15,No
+25,Male,Secondary,Employed,Wajir,Alcohol,Occasional,2,Moderate,Stable,Minor Issues,33012,Stable,Low,Never,11,Yes
+43,Male,None,Unemployed,Marsabit,Alcohol,Occasional,17,Moderate,Stable,Healthy,41783,Broken,Moderate,Multiple,8,No
+50,Male,Secondary,Unemployed,Garissa,Bhang,Regular,11,Mild,Stable,Healthy,85727,Stable,Moderate,Multiple,19,Yes
+39,Female,Secondary,Unemployed,Wajir,Heroin,Occasional,8,Severe,Stable,Healthy,68315,Stable,Low,Never,15,Yes
+35,Male,None,Unemployed,Mandera,Alcohol,Occasional,3,Moderate,Stable,Minor Issues,83766,Stable,Low,Multiple,18,Yes
+50,Female,None,Unemployed,Wajir,Bhang,Regular,12,Moderate,Stable,Healthy,46491,Broken,Moderate,Never,15,No
+24,Male,University,Employed,Garissa,Miraa,Regular,16,Severe,Stable,Healthy,88941,Broken,High,Never,8,Yes
+51,Male,Secondary,Unemployed,Wajir,Miraa,Regular,14,Mild,Stable,Chronic Conditions,58584,Broken,Low,Never,12,No
+23,Male,Secondary,Employed,Mandera,Heroin,Occasional,16,Mild,Anxious,Chronic Conditions,12803,Stable,High,Never,4,No
+38,Male,University,Employed,Marsabit,Bhang,Heavy,17,Moderate,Stable,Minor Issues,49625,Stable,Moderate,Never,18,No
+49,Male,Secondary,Employed,Mandera,Heroin,Occasional,11,Moderate,Depressed,Minor Issues,93361,Stable,Moderate,Never,9,Yes
+49,Male,Secondary,Unemployed,Marsabit,Alcohol,Occasional,17,Severe,Depressed,Chronic Conditions,13698,Stable,Moderate,Multiple,6,No
+50,Male,Primary,Employed,Isiolo,Alcohol,Regular,19,Severe,Stable,Minor Issues,34560,Stable,Low,Once,8,No
+32,Male,Primary,Employed,Mandera,Heroin,Regular,1,Mild,Anxious,Healthy,15376,Stable,Moderate,Multiple,13,Yes
+53,Male,Primary,Unemployed,Mandera,Miraa,Heavy,12,Moderate,Depressed,Chronic Conditions,83654,Broken,Moderate,Once,14,Yes
+46,Male,Secondary,Employed,Garissa,Alcohol,Regular,15,Moderate,Stable,Minor Issues,13117,Stable,Low,Never,12,Yes
+38,Female,Secondary,Unemployed,Wajir,Bhang,Heavy,18,Mild,Stable,Healthy,56381,Stable,Moderate,Multiple,9,No
+37,Male,University,Unemployed,Marsabit,Heroin,Heavy,14,Moderate,Stable,Healthy,37956,Broken,Low,Multiple,13,Yes
+46,Male,Primary,Employed,Marsabit,Heroin,Regular,1,Moderate,Stable,Healthy,48786,Broken,Moderate,Never,11,Yes
+51,Male,Secondary,Unemployed,Garissa,Miraa,Regular,13,Moderate,Stable,Chronic Conditions,87778,Broken,Moderate,Never,18,No
+26,Male,Secondary,Employed,Garissa,Heroin,Regular,15,Mild,Depressed,Healthy,66480,Broken,Moderate,Once,5,Yes
+27,Male,Secondary,Unemployed,Wajir,Alcohol,Heavy,7,Mild,Anxious,Chronic Conditions,31695,Stable,Low,Once,11,No
+37,Male,Secondary,Unemployed,Wajir,Alcohol,Regular,15,Mild,Depressed,Chronic Conditions,1511,Broken,High,Multiple,12,No
+39,Male,Primary,Unemployed,Mandera,Bhang,Occasional,10,Severe,Stable,Minor Issues,53233,Broken,Low,Never,7,Yes
+49,Male,Secondary,Unemployed,Isiolo,Alcohol,Regular,14,Mild,Stable,Minor Issues,22502,Stable,Moderate,Never,15,No
+55,Male,None,Employed,Wajir,Miraa,Occasional,6,Severe,Stable,Healthy,50010,Stable,Moderate,Once,1,Yes
+44,Female,Primary,Employed,Garissa,Bhang,Regular,14,Moderate,Stable,Healthy,90341,Stable,Moderate,Once,6,Yes
+31,Female,Primary,Unemployed,Wajir,Miraa,Occasional,12,Moderate,Stable,Healthy,92529,Stable,Low,Never,11,No
+34,Male,Secondary,Unemployed,Marsabit,Alcohol,Regular,11,Moderate,Anxious,Minor Issues,73905,Stable,Moderate,Never,6,Yes
+39,Male,University,Unemployed,Isiolo,Alcohol,Heavy,19,Moderate,Stable,Healthy,46489,Stable,Low,Once,18,No
+36,Male,Secondary,Unemployed,Mandera,Miraa,Occasional,2,Moderate,Anxious,Healthy,83533,Stable,Moderate,Once,13,Yes
+27,Male,Secondary,Unemployed,Marsabit,Miraa,Occasional,1,Moderate,Stable,Healthy,81165,Stable,Moderate,Never,8,Yes
+33,Female,Secondary,Unemployed,Marsabit,Bhang,Occasional,8,Moderate,Psychotic,Chronic Conditions,31949,Stable,Moderate,Never,17,No
+50,Male,Secondary,Employed,Isiolo,Bhang,Regular,14,Moderate,Depressed,Healthy,68376,Stable,Moderate,Multiple,10,Yes
+26,Male,None,Unemployed,Mandera,Miraa,Occasional,9,Moderate,Depressed,Chronic Conditions,79587,Stable,High,Multiple,15,No
+55,Male,Primary,Unemployed,Garissa,Heroin,Occasional,2,Mild,Stable,Healthy,93059,Broken,Low,Never,18,Yes
+33,Female,Primary,Employed,Mandera,Alcohol,Occasional,5,Moderate,Anxious,Minor Issues,67310,Stable,High,Never,10,No
+26,Male,Primary,Unemployed,Wajir,Alcohol,Regular,8,Severe,Anxious,Healthy,78798,Broken,Low,Multiple,17,Yes
+23,Male,None,Unemployed,Marsabit,Heroin,Occasional,16,Mild,Depressed,Minor Issues,69407,Broken,Moderate,Never,10,Yes
+21,Male,None,Unemployed,Wajir,Miraa,Regular,16,Mild,Depressed,Minor Issues,73809,Broken,Moderate,Once,3,Yes
+42,Male,Primary,Employed,Garissa,Cocaine,Occasional,13,Mild,Depressed,Healthy,17229,Broken,Moderate,Once,17,Yes
+28,Male,University,Employed,Wajir,Miraa,Regular,15,Moderate,Stable,Minor Issues,27385,Stable,Low,Never,18,No
+45,Male,Primary,Unemployed,Mandera,Bhang,Occasional,1,Mild,Depressed,Minor Issues,42176,Stable,Moderate,Once,12,Yes
+33,Male,Primary,Student,Wajir,Miraa,Regular,3,Moderate,Anxious,Minor Issues,94825,Orphan,Low,Once,3,Yes
+30,Male,None,Employed,Garissa,Miraa,Occasional,6,Mild,Stable,Minor Issues,3260,Stable,Low,Once,9,Yes
+19,Male,Secondary,Employed,Garissa,Miraa,Regular,14,Mild,Stable,Healthy,97555,Orphan,Low,Never,4,No
+49,Male,Primary,Unemployed,Garissa,Bhang,Heavy,4,Moderate,Stable,Minor Issues,3145,Broken,Moderate,Multiple,2,No
+26,Male,Primary,Employed,Mandera,Miraa,Heavy,18,Mild,Depressed,Chronic Conditions,97289,Stable,Low,Never,15,Yes
+39,Male,Secondary,Unemployed,Garissa,Cocaine,Regular,15,Severe,Stable,Chronic Conditions,7802,Stable,Low,Once,7,Yes
+35,Female,None,Student,Marsabit,Alcohol,Regular,9,Mild,Stable,Chronic Conditions,2263,Broken,Low,Multiple,6,Yes
+50,Male,None,Employed,Garissa,Alcohol,Heavy,18,Moderate,Stable,Healthy,26913,Stable,Low,Never,18,No
+37,Male,Primary,Unemployed,Wajir,Miraa,Regular,3,Mild,Depressed,Minor Issues,57788,Stable,High,Once,13,Yes
+30,Male,None,Employed,Wajir,Bhang,Occasional,10,Mild,Stable,Minor Issues,8155,Broken,High,Multiple,14,Yes
+53,Male,None,Employed,Wajir,Heroin,Heavy,17,Severe,Depressed,Healthy,922,Broken,Low,Never,16,No
+59,Female,Primary,Unemployed,Mandera,Miraa,Regular,7,Severe,Stable,Chronic Conditions,72231,Stable,Moderate,Never,0,No
+56,Male,Secondary,Unemployed,Wajir,Bhang,Occasional,15,Mild,Depressed,Minor Issues,20672,Stable,Moderate,Multiple,5,Yes
+53,Female,Secondary,Student,Mandera,Miraa,Occasional,1,Moderate,Psychotic,Healthy,38526,Broken,Moderate,Never,14,No
+28,Male,Secondary,Unemployed,Mandera,Bhang,Occasional,11,Moderate,Stable,Healthy,45344,Broken,Moderate,Never,11,Yes
+45,Male,Primary,Employed,Garissa,Heroin,Regular,17,Mild,Stable,Chronic Conditions,19014,Broken,Low,Multiple,19,No
+19,Female,University,Employed,Marsabit,Alcohol,Occasional,5,Mild,Anxious,Healthy,73352,Orphan,Moderate,Multiple,1,Yes
+49,Female,Primary,Employed,Garissa,Miraa,Occasional,7,Severe,Stable,Healthy,91279,Stable,Low,Multiple,4,Yes
+37,Female,None,Employed,Garissa,Cocaine,Occasional,19,Severe,Stable,Healthy,40324,Stable,Low,Never,8,No
+43,Female,Secondary,Employed,Mandera,Heroin,Regular,15,Severe,Anxious,Healthy,94075,Broken,Moderate,Never,19,Yes
+57,Male,None,Employed,Mandera,Miraa,Regular,3,Moderate,Psychotic,Chronic Conditions,95638,Broken,Moderate,Never,13,Yes
+25,Female,Primary,Unemployed,Wajir,Miraa,Occasional,15,Moderate,Depressed,Healthy,38698,Stable,Low,Once,17,Yes
+32,Male,Secondary,Unemployed,Wajir,Alcohol,Occasional,5,Mild,Stable,Minor Issues,77169,Stable,Moderate,Once,7,No
+26,Female,University,Unemployed,Garissa,Miraa,Occasional,12,Mild,Stable,Chronic Conditions,23384,Broken,Moderate,Never,1,Yes
+23,Male,Primary,Unemployed,Isiolo,Heroin,Heavy,5,Mild,Stable,Minor Issues,3512,Stable,High,Never,8,No
+24,Female,Secondary,Employed,Isiolo,Bhang,Regular,3,Moderate,Depressed,Healthy,6066,Orphan,Moderate,Once,6,Yes
+58,Male,University,Employed,Wajir,Alcohol,Regular,9,Moderate,Depressed,Minor Issues,31500,Stable,Moderate,Once,17,Yes
+31,Male,None,Unemployed,Isiolo,Alcohol,Occasional,9,Severe,Anxious,Healthy,78743,Stable,Moderate,Never,15,Yes
+52,Male,Primary,Unemployed,Wajir,Alcohol,Regular,7,Severe,Stable,Healthy,85642,Stable,Low,Multiple,4,Yes
+21,Female,Primary,Employed,Mandera,Alcohol,Regular,2,Severe,Depressed,Minor Issues,79858,Broken,Low,Never,14,No
+27,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,16,Severe,Stable,Chronic Conditions,54800,Broken,Low,Once,4,No
+54,Male,Primary,Unemployed,Marsabit,Miraa,Occasional,9,Mild,Stable,Minor Issues,63140,Broken,Moderate,Multiple,10,Yes
+56,Male,University,Unemployed,Garissa,Alcohol,Occasional,13,Moderate,Depressed,Chronic Conditions,84954,Orphan,Moderate,Once,13,Yes
+23,Male,Secondary,Employed,Wajir,Alcohol,Heavy,19,Moderate,Stable,Minor Issues,2387,Stable,High,Never,18,No
+41,Female,Secondary,Unemployed,Wajir,Miraa,Heavy,17,Mild,Depressed,Minor Issues,56160,Stable,Moderate,Never,2,No
+16,Male,Primary,Unemployed,Garissa,Alcohol,Regular,6,Severe,Depressed,Chronic Conditions,59241,Broken,Low,Multiple,9,No
+19,Female,Secondary,Unemployed,Wajir,Alcohol,Regular,4,Severe,Psychotic,Healthy,73567,Broken,Low,Never,5,No
+43,Male,University,Unemployed,Isiolo,Miraa,Occasional,1,Mild,Depressed,Healthy,1799,Broken,Low,Once,2,Yes
+51,Male,Secondary,Unemployed,Isiolo,Alcohol,Regular,18,Mild,Anxious,Minor Issues,35548,Broken,Moderate,Multiple,1,No
+52,Female,None,Unemployed,Wajir,Miraa,Regular,19,Moderate,Depressed,Minor Issues,33895,Stable,Moderate,Multiple,12,Yes
+33,Male,Secondary,Employed,Wajir,Alcohol,Occasional,9,Moderate,Stable,Healthy,90450,Stable,High,Once,17,Yes
+22,Male,None,Unemployed,Isiolo,Bhang,Heavy,13,Severe,Stable,Healthy,80171,Orphan,Moderate,Multiple,1,No
+59,Male,Primary,Unemployed,Wajir,Cocaine,Occasional,8,Mild,Depressed,Healthy,40379,Stable,High,Multiple,14,No
+15,Female,None,Unemployed,Wajir,Bhang,Occasional,13,Mild,Depressed,Minor Issues,45414,Stable,Moderate,Never,4,No
+36,Male,Secondary,Employed,Garissa,Miraa,Regular,15,Mild,Depressed,Chronic Conditions,73071,Broken,High,Never,14,Yes
+31,Female,Secondary,Employed,Marsabit,Heroin,Regular,11,Mild,Stable,Chronic Conditions,68344,Stable,Moderate,Never,16,Yes
+21,Female,None,Unemployed,Isiolo,Bhang,Regular,12,Mild,Stable,Minor Issues,78591,Broken,Moderate,Never,1,Yes
+39,Male,Primary,Unemployed,Garissa,Alcohol,Occasional,14,Severe,Stable,Chronic Conditions,93141,Stable,Moderate,Multiple,17,No
+59,Male,Primary,Student,Marsabit,Miraa,Heavy,4,Mild,Depressed,Healthy,92201,Broken,Moderate,Once,14,Yes
+18,Male,Primary,Unemployed,Wajir,Heroin,Regular,1,Moderate,Depressed,Healthy,98303,Broken,Moderate,Multiple,19,No
+50,Male,None,Unemployed,Wajir,Miraa,Regular,4,Mild,Depressed,Healthy,4297,Broken,Low,Once,2,Yes
+20,Male,Primary,Unemployed,Garissa,Alcohol,Heavy,19,Mild,Stable,Minor Issues,86479,Stable,Low,Once,4,No
+45,Male,Secondary,Unemployed,Wajir,Bhang,Regular,9,Severe,Stable,Healthy,98752,Stable,Moderate,Once,10,No
+33,Male,None,Unemployed,Mandera,Heroin,Occasional,10,Moderate,Depressed,Minor Issues,5008,Stable,Moderate,Never,8,Yes
+58,Female,None,Unemployed,Garissa,Alcohol,Regular,4,Moderate,Depressed,Minor Issues,86813,Stable,Low,Multiple,4,Yes
+53,Female,Primary,Employed,Marsabit,Miraa,Occasional,9,Moderate,Stable,Healthy,16820,Broken,Low,Never,0,No
+41,Female,University,Unemployed,Garissa,Alcohol,Occasional,13,Mild,Depressed,Chronic Conditions,71548,Stable,Low,Once,13,Yes
+24,Male,Secondary,Unemployed,Isiolo,Bhang,Regular,12,Moderate,Stable,Minor Issues,22253,Stable,Moderate,Never,4,No
+40,Male,Secondary,Employed,Garissa,Alcohol,Heavy,11,Mild,Depressed,Healthy,29202,Stable,Low,Multiple,7,No
+33,Male,Primary,Employed,Wajir,Miraa,Occasional,12,Severe,Anxious,Healthy,29236,Broken,Low,Multiple,13,Yes
+53,Female,Secondary,Employed,Wajir,Heroin,Regular,18,Mild,Depressed,Minor Issues,67156,Stable,Low,Once,15,No
+17,Male,None,Employed,Mandera,Miraa,Occasional,12,Moderate,Depressed,Healthy,60263,Broken,Low,Once,5,Yes
+59,Female,Secondary,Employed,Mandera,Bhang,Regular,16,Mild,Stable,Healthy,99252,Broken,High,Once,7,No
+27,Male,University,Unemployed,Mandera,Miraa,Regular,5,Moderate,Depressed,Minor Issues,74855,Broken,Low,Never,1,Yes
+42,Male,Secondary,Student,Marsabit,Alcohol,Regular,12,Severe,Depressed,Chronic Conditions,16575,Broken,Moderate,Never,18,No
+34,Female,University,Unemployed,Mandera,Bhang,Occasional,11,Moderate,Depressed,Healthy,12204,Stable,Moderate,Once,8,Yes
+42,Male,Secondary,Employed,Marsabit,Alcohol,Regular,9,Moderate,Depressed,Chronic Conditions,11952,Broken,High,Never,4,Yes
+22,Female,None,Employed,Mandera,Miraa,Heavy,18,Severe,Stable,Chronic Conditions,83323,Broken,Low,Never,4,Yes
+55,Female,University,Unemployed,Marsabit,Alcohol,Regular,3,Moderate,Psychotic,Healthy,51142,Broken,Low,Never,18,No
+53,Male,None,Employed,Garissa,Bhang,Regular,17,Mild,Depressed,Minor Issues,33872,Broken,Low,Never,3,Yes
+15,Male,Secondary,Unemployed,Garissa,Cocaine,Heavy,14,Mild,Stable,Healthy,29376,Stable,Low,Never,15,No
+17,Male,None,Unemployed,Wajir,Cocaine,Occasional,1,Moderate,Depressed,Healthy,66084,Stable,Moderate,Never,15,Yes
+27,Female,None,Unemployed,Marsabit,Miraa,Regular,17,Moderate,Stable,Minor Issues,11640,Broken,Low,Never,15,No
+42,Male,Primary,Employed,Isiolo,Alcohol,Heavy,8,Mild,Stable,Minor Issues,26437,Broken,Low,Never,6,No
+39,Male,Primary,Unemployed,Wajir,Miraa,Occasional,5,Mild,Stable,Healthy,87681,Stable,High,Once,17,Yes
+47,Male,Primary,Employed,Garissa,Heroin,Regular,5,Severe,Depressed,Chronic Conditions,7903,Stable,Moderate,Multiple,0,Yes
+52,Female,Secondary,Student,Marsabit,Alcohol,Occasional,9,Mild,Anxious,Minor Issues,83704,Stable,Low,Never,2,Yes
+20,Male,None,Unemployed,Mandera,Cocaine,Regular,3,Moderate,Depressed,Chronic Conditions,26863,Broken,Low,Multiple,7,Yes
+58,Female,None,Employed,Isiolo,Miraa,Regular,19,Mild,Depressed,Healthy,43381,Orphan,Low,Never,0,Yes
+59,Female,Secondary,Employed,Garissa,Cocaine,Occasional,9,Severe,Stable,Chronic Conditions,28548,Broken,High,Once,6,No
+46,Male,Primary,Employed,Wajir,Heroin,Regular,18,Mild,Stable,Healthy,49956,Stable,High,Once,6,Yes
+59,Male,Secondary,Unemployed,Marsabit,Heroin,Occasional,16,Moderate,Stable,Healthy,74526,Stable,High,Once,7,No
+35,Female,Secondary,Employed,Isiolo,Miraa,Occasional,1,Mild,Depressed,Minor Issues,11467,Stable,High,Once,18,No
+30,Male,Secondary,Unemployed,Marsabit,Alcohol,Occasional,2,Moderate,Anxious,Minor Issues,57954,Stable,Moderate,Never,16,Yes
+35,Female,Secondary,Employed,Mandera,Miraa,Heavy,14,Severe,Stable,Minor Issues,23901,Broken,Low,Never,10,No
+25,Male,Primary,Unemployed,Wajir,Miraa,Occasional,14,Mild,Depressed,Healthy,55983,Stable,Moderate,Multiple,14,Yes
+51,Male,Secondary,Unemployed,Marsabit,Alcohol,Heavy,1,Moderate,Anxious,Healthy,23301,Broken,Moderate,Never,8,No
+50,Female,Primary,Unemployed,Garissa,Miraa,Regular,16,Moderate,Stable,Minor Issues,85180,Broken,High,Never,16,Yes
+49,Male,Primary,Unemployed,Wajir,Miraa,Occasional,15,Mild,Depressed,Healthy,69903,Orphan,Moderate,Never,10,No
+33,Male,Secondary,Employed,Garissa,Bhang,Regular,15,Severe,Depressed,Minor Issues,16204,Stable,Moderate,Never,5,No
+34,Male,Primary,Employed,Marsabit,Bhang,Regular,12,Mild,Depressed,Healthy,19755,Stable,High,Once,8,Yes
+32,Male,Secondary,Unemployed,Wajir,Alcohol,Regular,16,Moderate,Stable,Chronic Conditions,59817,Stable,Low,Once,17,No
+55,Male,Secondary,Employed,Garissa,Cocaine,Occasional,14,Mild,Depressed,Minor Issues,2093,Broken,High,Never,19,Yes
+28,Male,University,Unemployed,Mandera,Alcohol,Occasional,15,Mild,Depressed,Minor Issues,69537,Orphan,Low,Never,1,Yes
+29,Female,University,Employed,Mandera,Miraa,Occasional,15,Mild,Stable,Chronic Conditions,96319,Stable,Moderate,Once,3,No
+45,Male,Primary,Employed,Marsabit,Miraa,Occasional,19,Moderate,Depressed,Minor Issues,22940,Stable,Low,Once,17,Yes
+15,Male,Primary,Employed,Wajir,Heroin,Occasional,8,Moderate,Stable,Healthy,73346,Broken,Moderate,Multiple,0,No
+17,Male,Secondary,Unemployed,Isiolo,Alcohol,Occasional,2,Moderate,Anxious,Healthy,44040,Broken,Moderate,Multiple,10,Yes
+30,Female,Primary,Employed,Wajir,Miraa,Occasional,2,Mild,Depressed,Minor Issues,37322,Orphan,Low,Multiple,2,No
+37,Male,Secondary,Unemployed,Mandera,Bhang,Occasional,10,Mild,Anxious,Healthy,91544,Stable,High,Once,7,Yes
+25,Female,Secondary,Employed,Garissa,Alcohol,Occasional,3,Moderate,Stable,Minor Issues,84437,Stable,Moderate,Once,4,Yes
+26,Male,Secondary,Unemployed,Isiolo,Bhang,Occasional,17,Severe,Stable,Healthy,92969,Stable,Moderate,Never,19,Yes
+24,Male,Primary,Employed,Marsabit,Cocaine,Heavy,8,Mild,Stable,Healthy,87725,Stable,Low,Once,4,Yes
+46,Male,None,Unemployed,Isiolo,Cocaine,Occasional,4,Moderate,Stable,Minor Issues,94266,Broken,High,Never,10,Yes
+30,Male,Primary,Unemployed,Marsabit,Alcohol,Regular,14,Mild,Stable,Chronic Conditions,9236,Stable,Low,Multiple,11,Yes
+22,Male,None,Employed,Isiolo,Alcohol,Occasional,10,Moderate,Depressed,Minor Issues,72597,Stable,Low,Never,8,Yes
+52,Male,University,Student,Marsabit,Miraa,Heavy,1,Severe,Stable,Chronic Conditions,84124,Broken,Low,Once,12,Yes
+26,Female,Primary,Student,Marsabit,Miraa,Occasional,4,Severe,Depressed,Chronic Conditions,3902,Stable,Moderate,Never,19,Yes
+38,Male,None,Unemployed,Isiolo,Alcohol,Heavy,1,Moderate,Stable,Healthy,99656,Broken,High,Once,2,Yes
+42,Male,None,Unemployed,Isiolo,Alcohol,Regular,17,Mild,Depressed,Healthy,34364,Stable,Low,Never,12,Yes
+22,Male,Secondary,Employed,Marsabit,Cocaine,Occasional,17,Severe,Depressed,Minor Issues,98983,Broken,Low,Never,10,No
+42,Female,Secondary,Unemployed,Mandera,Cocaine,Heavy,7,Moderate,Depressed,Chronic Conditions,94410,Stable,High,Never,10,Yes
+50,Male,Primary,Employed,Isiolo,Alcohol,Regular,15,Mild,Psychotic,Minor Issues,20096,Broken,Moderate,Never,19,Yes
+40,Male,None,Employed,Wajir,Miraa,Occasional,13,Moderate,Stable,Chronic Conditions,12020,Stable,Moderate,Never,6,Yes
+22,Male,Primary,Student,Garissa,Miraa,Regular,2,Severe,Stable,Healthy,58473,Stable,Low,Never,16,No
+42,Female,Primary,Employed,Marsabit,Alcohol,Heavy,19,Severe,Stable,Healthy,44153,Broken,Moderate,Multiple,15,Yes
+42,Male,Secondary,Unemployed,Marsabit,Bhang,Regular,13,Mild,Stable,Minor Issues,41277,Stable,Low,Never,13,No
+51,Male,Secondary,Unemployed,Garissa,Bhang,Occasional,11,Moderate,Depressed,Healthy,87221,Stable,High,Never,0,Yes
+55,Female,Primary,Unemployed,Mandera,Heroin,Regular,15,Severe,Stable,Healthy,38502,Broken,Moderate,Multiple,10,Yes
+50,Female,Primary,Student,Garissa,Bhang,Regular,10,Mild,Depressed,Healthy,15675,Broken,Moderate,Once,12,No
+41,Male,University,Employed,Isiolo,Miraa,Heavy,9,Moderate,Stable,Healthy,24365,Stable,Low,Never,0,Yes
+31,Female,Primary,Employed,Garissa,Bhang,Regular,9,Moderate,Psychotic,Minor Issues,87812,Stable,Low,Never,1,Yes
+23,Male,Secondary,Unemployed,Marsabit,Alcohol,Occasional,1,Moderate,Anxious,Chronic Conditions,78229,Stable,Low,Multiple,8,No
+47,Male,None,Employed,Garissa,Miraa,Heavy,17,Mild,Stable,Chronic Conditions,89049,Stable,Low,Never,12,No
+34,Male,Primary,Employed,Wajir,Miraa,Occasional,12,Moderate,Stable,Minor Issues,52148,Orphan,Low,Never,4,No
+27,Male,None,Employed,Isiolo,Alcohol,Occasional,10,Severe,Anxious,Healthy,89157,Broken,Moderate,Once,8,No
+42,Male,Secondary,Unemployed,Garissa,Alcohol,Regular,5,Moderate,Psychotic,Minor Issues,89247,Stable,Low,Never,12,No
+43,Female,University,Unemployed,Marsabit,Alcohol,Regular,18,Moderate,Stable,Healthy,93321,Orphan,Moderate,Multiple,4,No
+27,Male,Primary,Employed,Isiolo,Cocaine,Occasional,15,Mild,Stable,Healthy,68078,Broken,Low,Never,14,Yes
+49,Male,None,Unemployed,Marsabit,Alcohol,Regular,6,Mild,Anxious,Healthy,82598,Broken,Low,Once,6,No
+20,Male,None,Employed,Mandera,Alcohol,Occasional,7,Moderate,Depressed,Chronic Conditions,70902,Stable,Moderate,Once,13,No
+32,Female,Primary,Employed,Wajir,Miraa,Regular,17,Mild,Stable,Chronic Conditions,26465,Stable,Moderate,Never,15,Yes
+19,Male,None,Unemployed,Mandera,Bhang,Heavy,6,Severe,Depressed,Minor Issues,32286,Broken,Moderate,Multiple,5,Yes
+39,Male,None,Unemployed,Wajir,Alcohol,Occasional,8,Mild,Anxious,Minor Issues,54795,Stable,Low,Multiple,1,Yes
+16,Male,Secondary,Unemployed,Garissa,Cocaine,Occasional,12,Moderate,Anxious,Healthy,40178,Stable,Moderate,Never,15,No
+24,Male,Primary,Employed,Isiolo,Heroin,Occasional,14,Mild,Depressed,Minor Issues,79183,Stable,Moderate,Multiple,18,Yes
+44,Female,Primary,Unemployed,Garissa,Miraa,Heavy,12,Severe,Depressed,Minor Issues,49986,Stable,Low,Never,4,No
+59,Female,University,Unemployed,Wajir,Bhang,Occasional,10,Mild,Stable,Healthy,43201,Broken,Moderate,Multiple,3,Yes
+19,Male,None,Unemployed,Wajir,Alcohol,Occasional,15,Mild,Anxious,Healthy,43315,Broken,Moderate,Never,13,No
+47,Female,University,Unemployed,Wajir,Miraa,Regular,7,Mild,Stable,Chronic Conditions,75396,Stable,Low,Never,5,Yes
+15,Male,Primary,Unemployed,Marsabit,Bhang,Regular,9,Severe,Anxious,Minor Issues,55178,Stable,High,Never,7,No
+32,Female,University,Unemployed,Isiolo,Alcohol,Occasional,10,Mild,Stable,Chronic Conditions,10745,Broken,Moderate,Never,2,No
+46,Male,Secondary,Unemployed,Garissa,Alcohol,Regular,10,Mild,Anxious,Chronic Conditions,72354,Stable,Low,Never,3,No
+25,Male,Secondary,Student,Garissa,Miraa,Occasional,16,Mild,Stable,Chronic Conditions,79637,Broken,Moderate,Multiple,0,No
+35,Male,University,Unemployed,Mandera,Alcohol,Heavy,7,Moderate,Depressed,Healthy,5028,Broken,Low,Multiple,1,No
+40,Male,Primary,Unemployed,Wajir,Cocaine,Occasional,5,Mild,Stable,Healthy,98261,Stable,High,Never,12,Yes
+39,Male,University,Unemployed,Wajir,Alcohol,Occasional,3,Mild,Depressed,Healthy,48566,Broken,Moderate,Never,8,Yes
+36,Male,Primary,Employed,Wajir,Bhang,Regular,18,Mild,Anxious,Healthy,43722,Broken,Low,Multiple,11,No
+41,Male,Primary,Employed,Garissa,Miraa,Occasional,11,Moderate,Depressed,Minor Issues,86623,Stable,Low,Never,9,Yes
+27,Female,Primary,Unemployed,Mandera,Bhang,Regular,15,Moderate,Depressed,Minor Issues,74974,Stable,Low,Never,9,Yes
+47,Male,Secondary,Student,Marsabit,Miraa,Occasional,5,Moderate,Stable,Minor Issues,83692,Orphan,Moderate,Once,17,Yes
+48,Male,None,Student,Isiolo,Miraa,Occasional,12,Severe,Anxious,Healthy,84084,Stable,Moderate,Never,11,Yes
+55,Female,Secondary,Employed,Marsabit,Heroin,Regular,4,Severe,Depressed,Chronic Conditions,39879,Broken,Low,Never,15,Yes
+49,Male,Secondary,Unemployed,Garissa,Miraa,Regular,15,Mild,Depressed,Healthy,24767,Broken,Low,Once,5,No
+15,Male,Secondary,Employed,Wajir,Miraa,Regular,9,Moderate,Depressed,Healthy,68099,Stable,Low,Once,9,Yes
+35,Male,Secondary,Student,Isiolo,Miraa,Occasional,7,Moderate,Depressed,Minor Issues,48657,Stable,Low,Never,14,Yes
+20,Female,Primary,Student,Garissa,Bhang,Occasional,10,Severe,Stable,Minor Issues,8498,Stable,Low,Multiple,8,Yes
+42,Male,Primary,Unemployed,Garissa,Miraa,Occasional,13,Moderate,Depressed,Healthy,73667,Stable,Moderate,Once,1,No
+31,Male,Primary,Unemployed,Garissa,Cocaine,Occasional,8,Moderate,Depressed,Healthy,25107,Broken,Moderate,Never,17,No
+19,Female,None,Unemployed,Isiolo,Alcohol,Regular,12,Moderate,Anxious,Minor Issues,28793,Orphan,High,Never,11,No
+45,Female,None,Unemployed,Isiolo,Miraa,Heavy,19,Severe,Anxious,Healthy,2696,Broken,High,Never,2,Yes
+19,Male,Primary,Employed,Mandera,Bhang,Occasional,1,Mild,Stable,Healthy,53839,Stable,Moderate,Never,6,No
+52,Male,Primary,Unemployed,Mandera,Bhang,Occasional,16,Mild,Stable,Minor Issues,89241,Broken,Moderate,Never,8,No
+17,Male,University,Unemployed,Marsabit,Heroin,Occasional,17,Mild,Stable,Healthy,23397,Broken,High,Never,7,No
+37,Female,Secondary,Unemployed,Isiolo,Cocaine,Occasional,18,Mild,Stable,Healthy,7704,Orphan,Low,Never,5,No
+51,Male,Primary,Employed,Isiolo,Miraa,Occasional,11,Moderate,Depressed,Healthy,16442,Stable,Low,Once,0,Yes
+51,Male,Secondary,Student,Isiolo,Alcohol,Heavy,18,Mild,Anxious,Chronic Conditions,63788,Broken,Low,Once,13,Yes
+24,Female,None,Employed,Mandera,Alcohol,Regular,7,Mild,Stable,Chronic Conditions,9765,Broken,Moderate,Once,15,Yes
+24,Male,Primary,Unemployed,Garissa,Bhang,Heavy,18,Severe,Stable,Healthy,10002,Stable,Moderate,Once,15,Yes
+33,Male,Secondary,Unemployed,Wajir,Heroin,Heavy,8,Moderate,Anxious,Healthy,11390,Orphan,Low,Multiple,3,No
+31,Male,Primary,Unemployed,Mandera,Alcohol,Regular,6,Moderate,Anxious,Healthy,44436,Stable,Moderate,Once,5,No
+35,Male,Primary,Unemployed,Isiolo,Alcohol,Regular,7,Mild,Depressed,Healthy,84482,Stable,Moderate,Never,14,No
+28,Male,University,Employed,Mandera,Alcohol,Occasional,10,Mild,Depressed,Minor Issues,6641,Broken,Low,Never,7,Yes
+23,Male,University,Employed,Marsabit,Heroin,Regular,11,Severe,Depressed,Minor Issues,33709,Stable,Low,Multiple,0,Yes
+15,Male,Secondary,Unemployed,Isiolo,Miraa,Heavy,13,Moderate,Stable,Healthy,39309,Broken,Low,Never,12,Yes
+59,Male,Secondary,Unemployed,Marsabit,Miraa,Occasional,9,Mild,Stable,Healthy,15624,Broken,Low,Never,17,Yes
+27,Female,Secondary,Employed,Isiolo,Miraa,Heavy,7,Severe,Stable,Healthy,9966,Stable,High,Once,17,Yes
+18,Male,Primary,Unemployed,Mandera,Heroin,Occasional,9,Severe,Stable,Healthy,89350,Stable,High,Once,12,No
+15,Female,Primary,Unemployed,Garissa,Bhang,Heavy,13,Severe,Anxious,Healthy,34189,Broken,High,Once,13,Yes
+54,Male,None,Unemployed,Wajir,Bhang,Heavy,3,Moderate,Depressed,Minor Issues,71301,Broken,Moderate,Never,10,No
+46,Female,Primary,Unemployed,Marsabit,Alcohol,Regular,3,Mild,Stable,Minor Issues,95758,Orphan,Moderate,Never,6,Yes
+48,Female,Secondary,Employed,Mandera,Miraa,Regular,1,Moderate,Stable,Minor Issues,17223,Broken,Moderate,Multiple,17,No
+42,Male,Primary,Employed,Garissa,Bhang,Regular,2,Moderate,Stable,Healthy,78183,Stable,Moderate,Never,3,Yes
+45,Female,University,Unemployed,Mandera,Cocaine,Heavy,3,Mild,Depressed,Minor Issues,4959,Stable,Moderate,Never,16,Yes
+22,Female,University,Unemployed,Marsabit,Alcohol,Heavy,15,Moderate,Anxious,Healthy,27257,Orphan,Moderate,Never,18,No
+53,Male,Secondary,Unemployed,Wajir,Alcohol,Regular,6,Mild,Stable,Healthy,97520,Broken,Low,Multiple,13,No
+40,Male,Secondary,Unemployed,Mandera,Alcohol,Regular,13,Moderate,Stable,Minor Issues,50802,Stable,Moderate,Once,9,Yes
+48,Male,University,Unemployed,Isiolo,Miraa,Regular,1,Mild,Depressed,Healthy,87748,Broken,Low,Multiple,5,Yes
+17,Female,None,Student,Garissa,Heroin,Heavy,19,Moderate,Depressed,Minor Issues,27215,Broken,Moderate,Never,17,Yes
+26,Female,Secondary,Unemployed,Mandera,Alcohol,Regular,1,Mild,Stable,Minor Issues,55046,Broken,Moderate,Never,3,No
+15,Female,None,Unemployed,Garissa,Miraa,Heavy,2,Severe,Depressed,Chronic Conditions,94593,Stable,Low,Never,10,No
+58,Male,Secondary,Unemployed,Isiolo,Miraa,Regular,15,Moderate,Depressed,Chronic Conditions,34094,Broken,High,Multiple,12,Yes
+19,Female,Primary,Employed,Wajir,Alcohol,Occasional,14,Moderate,Stable,Healthy,38669,Broken,Low,Never,7,Yes
+44,Male,University,Unemployed,Wajir,Miraa,Occasional,19,Severe,Stable,Chronic Conditions,36126,Broken,Low,Never,9,No
+44,Male,University,Employed,Isiolo,Alcohol,Regular,11,Moderate,Stable,Minor Issues,99889,Orphan,Low,Once,10,Yes
+31,Male,None,Student,Garissa,Miraa,Occasional,15,Severe,Anxious,Minor Issues,79036,Broken,High,Never,2,No
+37,Male,Primary,Unemployed,Mandera,Bhang,Occasional,6,Mild,Psychotic,Healthy,16772,Broken,Moderate,Once,14,Yes
+29,Male,University,Unemployed,Isiolo,Miraa,Regular,9,Mild,Anxious,Chronic Conditions,48586,Orphan,Moderate,Multiple,7,Yes
+51,Male,Primary,Employed,Marsabit,Alcohol,Occasional,5,Mild,Depressed,Healthy,51943,Stable,High,Never,19,Yes
+35,Male,University,Employed,Garissa,Cocaine,Occasional,2,Mild,Depressed,Chronic Conditions,68868,Stable,Low,Never,17,Yes
+28,Male,Secondary,Employed,Wajir,Bhang,Regular,6,Severe,Depressed,Healthy,49855,Broken,Low,Never,0,Yes
+16,Male,Primary,Unemployed,Isiolo,Bhang,Heavy,18,Mild,Anxious,Minor Issues,22218,Stable,Low,Never,7,No
+25,Male,Primary,Employed,Wajir,Alcohol,Regular,19,Moderate,Stable,Healthy,81008,Stable,Moderate,Never,2,No
+53,Male,Primary,Unemployed,Garissa,Alcohol,Heavy,9,Moderate,Depressed,Healthy,57205,Stable,Moderate,Once,0,No
+52,Male,Secondary,Unemployed,Wajir,Alcohol,Regular,6,Moderate,Depressed,Healthy,4959,Stable,Low,Never,19,No
+48,Male,Primary,Unemployed,Isiolo,Alcohol,Occasional,14,Moderate,Depressed,Healthy,82979,Stable,Low,Multiple,15,Yes
+52,Male,Secondary,Unemployed,Garissa,Miraa,Regular,13,Moderate,Stable,Healthy,45134,Stable,Low,Never,8,Yes
+48,Male,Primary,Employed,Marsabit,Cocaine,Regular,11,Mild,Depressed,Healthy,25874,Orphan,Moderate,Never,16,No
+32,Male,Secondary,Unemployed,Isiolo,Miraa,Occasional,12,Mild,Depressed,Minor Issues,1301,Broken,Low,Never,15,Yes
+44,Male,University,Unemployed,Mandera,Alcohol,Occasional,19,Moderate,Stable,Chronic Conditions,58017,Broken,Low,Once,5,Yes
+29,Male,University,Employed,Isiolo,Miraa,Regular,19,Moderate,Depressed,Minor Issues,43319,Stable,Low,Never,6,Yes
+41,Female,Primary,Unemployed,Garissa,Alcohol,Occasional,19,Moderate,Stable,Healthy,89616,Broken,Moderate,Multiple,15,Yes
+48,Male,Secondary,Employed,Isiolo,Bhang,Regular,13,Severe,Anxious,Healthy,86219,Broken,Moderate,Once,7,Yes
+52,Male,Secondary,Unemployed,Marsabit,Miraa,Occasional,14,Moderate,Depressed,Healthy,95192,Broken,Moderate,Multiple,9,No
+47,Male,Secondary,Student,Marsabit,Bhang,Regular,18,Moderate,Depressed,Chronic Conditions,22455,Stable,Moderate,Once,13,No
+38,Male,University,Employed,Mandera,Cocaine,Regular,12,Mild,Stable,Chronic Conditions,4112,Stable,Moderate,Never,10,No
+29,Male,Primary,Unemployed,Wajir,Alcohol,Occasional,4,Moderate,Stable,Healthy,57033,Broken,High,Multiple,1,No
+44,Male,None,Unemployed,Garissa,Miraa,Occasional,10,Moderate,Depressed,Healthy,58360,Broken,Low,Multiple,11,No
+56,Male,University,Student,Garissa,Cocaine,Regular,17,Mild,Stable,Chronic Conditions,82418,Broken,Moderate,Multiple,19,Yes
+31,Male,Primary,Unemployed,Wajir,Bhang,Heavy,4,Mild,Depressed,Chronic Conditions,32145,Broken,Moderate,Never,19,Yes
+19,Male,Secondary,Unemployed,Marsabit,Miraa,Heavy,12,Moderate,Stable,Chronic Conditions,32735,Stable,Low,Once,12,No
+43,Female,University,Employed,Marsabit,Cocaine,Regular,13,Mild,Anxious,Chronic Conditions,72781,Broken,Moderate,Never,14,Yes
+18,Female,None,Employed,Isiolo,Alcohol,Regular,4,Mild,Depressed,Healthy,67641,Stable,Low,Never,11,Yes
+24,Female,University,Employed,Mandera,Cocaine,Occasional,10,Moderate,Stable,Healthy,21711,Broken,Low,Once,12,Yes
+31,Female,Primary,Student,Mandera,Alcohol,Occasional,3,Mild,Depressed,Healthy,5630,Orphan,Low,Multiple,7,Yes
+24,Male,Secondary,Unemployed,Mandera,Miraa,Occasional,15,Severe,Anxious,Healthy,65488,Broken,Low,Once,15,Yes
+31,Male,Secondary,Unemployed,Isiolo,Heroin,Regular,2,Mild,Depressed,Healthy,3206,Stable,Moderate,Multiple,2,Yes
+34,Male,University,Student,Mandera,Alcohol,Occasional,17,Moderate,Stable,Minor Issues,56289,Stable,Moderate,Never,12,Yes
+38,Male,None,Employed,Wajir,Miraa,Occasional,6,Moderate,Depressed,Healthy,18953,Broken,Moderate,Never,11,No
+19,Female,Primary,Employed,Isiolo,Miraa,Regular,8,Severe,Stable,Healthy,10068,Broken,Moderate,Once,18,Yes
+48,Male,Secondary,Employed,Wajir,Cocaine,Regular,3,Mild,Stable,Healthy,78930,Broken,Low,Never,1,No
+20,Female,Secondary,Employed,Isiolo,Heroin,Occasional,18,Moderate,Stable,Healthy,55916,Broken,Moderate,Multiple,0,Yes
+16,Male,Secondary,Employed,Mandera,Bhang,Occasional,1,Moderate,Depressed,Healthy,1067,Stable,High,Never,7,Yes
+27,Female,None,Unemployed,Wajir,Miraa,Regular,16,Moderate,Stable,Chronic Conditions,50658,Broken,Low,Never,8,Yes
+57,Male,Primary,Employed,Wajir,Heroin,Regular,7,Moderate,Anxious,Chronic Conditions,52165,Broken,Moderate,Once,7,Yes
+57,Male,Primary,Employed,Wajir,Miraa,Regular,3,Moderate,Stable,Healthy,80781,Orphan,Moderate,Never,16,No
+25,Male,Secondary,Employed,Isiolo,Miraa,Occasional,4,Severe,Stable,Minor Issues,9859,Stable,Moderate,Multiple,8,No
+37,Male,Primary,Employed,Garissa,Bhang,Regular,9,Mild,Stable,Healthy,29164,Broken,Low,Never,5,No
+30,Male,Primary,Student,Mandera,Miraa,Heavy,5,Mild,Stable,Minor Issues,80913,Stable,Low,Never,14,No
+45,Male,University,Unemployed,Wajir,Alcohol,Occasional,19,Severe,Depressed,Healthy,99251,Broken,Moderate,Multiple,12,Yes
+25,Female,None,Student,Garissa,Alcohol,Heavy,15,Mild,Stable,Healthy,20773,Broken,High,Never,11,Yes
+30,Male,University,Unemployed,Mandera,Alcohol,Occasional,8,Severe,Stable,Chronic Conditions,57295,Stable,Low,Multiple,12,Yes
+22,Male,Secondary,Employed,Mandera,Heroin,Occasional,6,Moderate,Stable,Healthy,33939,Stable,High,Never,6,Yes
+18,Male,Secondary,Unemployed,Wajir,Miraa,Regular,18,Moderate,Stable,Healthy,48599,Broken,Low,Never,17,Yes
+54,Female,Primary,Employed,Wajir,Bhang,Occasional,19,Mild,Stable,Healthy,6114,Broken,Low,Multiple,13,Yes
+18,Male,None,Employed,Isiolo,Miraa,Occasional,15,Mild,Depressed,Healthy,98475,Stable,Moderate,Multiple,10,Yes
+39,Male,Secondary,Employed,Garissa,Alcohol,Regular,7,Moderate,Depressed,Healthy,12818,Stable,Moderate,Never,13,Yes
+17,Male,Secondary,Employed,Garissa,Miraa,Regular,10,Severe,Depressed,Chronic Conditions,9335,Broken,Low,Once,16,Yes
+46,Male,Secondary,Employed,Wajir,Bhang,Heavy,6,Severe,Depressed,Minor Issues,55008,Orphan,Low,Multiple,1,No
+17,Male,None,Employed,Mandera,Bhang,Regular,14,Mild,Depressed,Minor Issues,71745,Stable,High,Never,18,No
+41,Male,Secondary,Unemployed,Wajir,Cocaine,Occasional,17,Mild,Anxious,Healthy,43148,Broken,High,Never,15,No
+43,Male,Secondary,Employed,Mandera,Bhang,Regular,9,Mild,Stable,Healthy,3577,Stable,Low,Once,9,No
+46,Female,Secondary,Employed,Mandera,Miraa,Regular,19,Severe,Stable,Healthy,73916,Stable,Low,Never,7,Yes
+33,Male,Secondary,Unemployed,Wajir,Bhang,Heavy,5,Mild,Stable,Healthy,4076,Stable,Moderate,Never,4,Yes
+35,Male,Secondary,Employed,Marsabit,Cocaine,Heavy,7,Mild,Stable,Minor Issues,32925,Broken,Moderate,Multiple,6,Yes
+19,Male,Secondary,Employed,Garissa,Bhang,Heavy,19,Mild,Stable,Healthy,51869,Stable,Low,Never,12,No
+32,Female,None,Unemployed,Mandera,Alcohol,Regular,7,Mild,Depressed,Chronic Conditions,59314,Broken,High,Multiple,15,No
+42,Male,Primary,Employed,Mandera,Miraa,Regular,2,Severe,Stable,Healthy,41205,Stable,Low,Once,4,Yes
+56,Female,None,Employed,Marsabit,Bhang,Occasional,16,Moderate,Psychotic,Healthy,11095,Orphan,Moderate,Once,15,Yes
+36,Male,Primary,Unemployed,Isiolo,Bhang,Heavy,13,Mild,Stable,Healthy,84715,Broken,Moderate,Once,14,No
+35,Male,Primary,Employed,Marsabit,Alcohol,Occasional,8,Mild,Stable,Healthy,56680,Broken,Moderate,Never,8,Yes
+20,Male,None,Unemployed,Marsabit,Heroin,Occasional,6,Mild,Psychotic,Healthy,28400,Broken,Low,Never,11,No
+15,Female,Primary,Unemployed,Mandera,Cocaine,Occasional,6,Mild,Anxious,Healthy,84297,Broken,Moderate,Never,7,Yes
+19,Male,None,Employed,Garissa,Alcohol,Regular,9,Mild,Stable,Healthy,67346,Broken,High,Once,12,Yes
+55,Female,Secondary,Unemployed,Marsabit,Heroin,Regular,4,Moderate,Depressed,Minor Issues,87110,Stable,Moderate,Never,4,No
+26,Female,University,Unemployed,Isiolo,Alcohol,Regular,11,Mild,Anxious,Minor Issues,28562,Stable,Moderate,Never,13,No
+40,Male,None,Employed,Wajir,Alcohol,Heavy,5,Mild,Stable,Healthy,40663,Broken,Low,Multiple,15,No
+48,Male,University,Unemployed,Marsabit,Alcohol,Heavy,17,Mild,Stable,Healthy,18510,Stable,High,Multiple,10,Yes
+28,Male,Secondary,Employed,Marsabit,Alcohol,Occasional,7,Moderate,Anxious,Minor Issues,61608,Stable,High,Never,19,Yes
+40,Male,Primary,Unemployed,Isiolo,Heroin,Occasional,15,Moderate,Depressed,Chronic Conditions,72489,Broken,Moderate,Never,11,No
+59,Female,None,Employed,Garissa,Alcohol,Heavy,15,Moderate,Stable,Minor Issues,52182,Stable,Moderate,Once,14,Yes
+41,Female,Secondary,Unemployed,Marsabit,Alcohol,Heavy,14,Moderate,Depressed,Healthy,87667,Broken,High,Multiple,11,Yes
+23,Male,Secondary,Employed,Marsabit,Alcohol,Regular,13,Moderate,Stable,Minor Issues,26883,Stable,Low,Never,8,No
+40,Male,Secondary,Unemployed,Garissa,Alcohol,Regular,11,Mild,Anxious,Minor Issues,71427,Orphan,Moderate,Never,0,Yes
+36,Female,None,Employed,Isiolo,Alcohol,Occasional,13,Severe,Stable,Healthy,35844,Orphan,Moderate,Multiple,2,Yes
+44,Male,None,Unemployed,Marsabit,Bhang,Heavy,9,Mild,Anxious,Chronic Conditions,18728,Orphan,Moderate,Multiple,11,No
+57,Female,Primary,Unemployed,Garissa,Alcohol,Regular,10,Moderate,Depressed,Healthy,98923,Stable,High,Once,19,No
+31,Male,Primary,Unemployed,Marsabit,Heroin,Regular,4,Moderate,Stable,Chronic Conditions,11094,Broken,Moderate,Never,12,Yes
+40,Male,Primary,Unemployed,Wajir,Heroin,Occasional,17,Moderate,Stable,Minor Issues,2407,Orphan,Low,Never,5,Yes
+50,Male,Primary,Unemployed,Mandera,Alcohol,Heavy,14,Severe,Depressed,Minor Issues,55412,Orphan,Low,Once,9,No
+15,Male,Secondary,Unemployed,Wajir,Heroin,Regular,18,Moderate,Anxious,Minor Issues,12644,Broken,Low,Never,9,No
+22,Male,University,Unemployed,Marsabit,Alcohol,Occasional,11,Severe,Stable,Healthy,85834,Stable,Moderate,Never,15,No
+49,Male,Primary,Employed,Isiolo,Alcohol,Regular,16,Severe,Stable,Minor Issues,60746,Broken,Low,Never,0,Yes
+29,Male,University,Unemployed,Mandera,Alcohol,Regular,1,Severe,Depressed,Chronic Conditions,52748,Broken,Low,Once,15,Yes
+36,Female,Primary,Unemployed,Wajir,Miraa,Regular,7,Severe,Depressed,Minor Issues,59021,Stable,Moderate,Once,3,No
+28,Female,Primary,Student,Garissa,Miraa,Regular,10,Severe,Stable,Chronic Conditions,62651,Broken,High,Multiple,5,No
+40,Male,Primary,Unemployed,Isiolo,Bhang,Regular,9,Moderate,Depressed,Chronic Conditions,36807,Broken,High,Once,18,No
+42,Male,Secondary,Employed,Wajir,Miraa,Heavy,3,Mild,Depressed,Chronic Conditions,34072,Broken,High,Multiple,1,Yes
+37,Male,University,Employed,Garissa,Bhang,Occasional,14,Mild,Stable,Minor Issues,38398,Stable,Moderate,Multiple,17,Yes
+28,Male,Secondary,Unemployed,Marsabit,Alcohol,Occasional,15,Moderate,Stable,Minor Issues,28669,Broken,Low,Never,9,Yes
+38,Male,Primary,Unemployed,Garissa,Bhang,Occasional,2,Severe,Stable,Healthy,30161,Orphan,High,Never,3,No
+16,Male,Secondary,Unemployed,Wajir,Alcohol,Regular,14,Moderate,Depressed,Minor Issues,7282,Broken,Low,Once,0,No
+59,Male,None,Unemployed,Wajir,Alcohol,Regular,16,Severe,Depressed,Healthy,26539,Broken,Moderate,Never,14,Yes
+40,Male,University,Unemployed,Marsabit,Alcohol,Heavy,7,Severe,Depressed,Healthy,3307,Broken,Moderate,Multiple,9,Yes
+28,Male,Secondary,Employed,Garissa,Alcohol,Regular,4,Mild,Stable,Healthy,17745,Broken,High,Never,17,Yes
+21,Male,Primary,Unemployed,Garissa,Miraa,Regular,18,Mild,Stable,Chronic Conditions,39433,Broken,Moderate,Never,15,Yes
+17,Female,Secondary,Unemployed,Marsabit,Heroin,Heavy,5,Mild,Anxious,Chronic Conditions,34555,Stable,Low,Once,12,No
+37,Male,Secondary,Employed,Garissa,Alcohol,Occasional,6,Mild,Stable,Minor Issues,1073,Stable,Moderate,Once,14,No
+57,Male,None,Unemployed,Marsabit,Bhang,Heavy,7,Moderate,Depressed,Healthy,32683,Stable,Low,Once,1,Yes
+59,Male,Secondary,Unemployed,Isiolo,Bhang,Regular,15,Severe,Depressed,Minor Issues,25741,Stable,High,Once,19,Yes
+32,Male,Primary,Employed,Wajir,Heroin,Regular,1,Moderate,Stable,Minor Issues,22286,Stable,Moderate,Never,3,No
+52,Female,Secondary,Employed,Isiolo,Alcohol,Regular,4,Moderate,Stable,Healthy,3599,Stable,Moderate,Never,0,Yes
+49,Male,Secondary,Student,Mandera,Miraa,Regular,1,Mild,Stable,Healthy,27293,Broken,High,Multiple,6,Yes
+29,Female,Secondary,Employed,Mandera,Cocaine,Occasional,11,Mild,Stable,Healthy,15389,Stable,Moderate,Never,10,No
+39,Male,Secondary,Unemployed,Mandera,Bhang,Regular,18,Moderate,Depressed,Minor Issues,12318,Stable,Low,Never,9,No
+51,Male,Secondary,Unemployed,Marsabit,Miraa,Regular,14,Mild,Stable,Minor Issues,48875,Stable,Low,Never,0,No
+42,Female,None,Unemployed,Garissa,Alcohol,Heavy,11,Mild,Stable,Healthy,3055,Broken,Moderate,Never,10,Yes
+24,Male,Secondary,Unemployed,Isiolo,Alcohol,Regular,10,Moderate,Depressed,Chronic Conditions,82579,Stable,High,Once,9,Yes
+53,Male,Primary,Employed,Isiolo,Miraa,Heavy,17,Mild,Stable,Healthy,6320,Stable,Moderate,Once,13,Yes
+31,Male,Primary,Unemployed,Isiolo,Bhang,Regular,4,Severe,Depressed,Healthy,4642,Stable,High,Once,13,Yes
+53,Male,Primary,Employed,Isiolo,Alcohol,Regular,15,Mild,Stable,Healthy,92694,Broken,Low,Once,6,No
+36,Female,None,Unemployed,Mandera,Miraa,Regular,16,Mild,Stable,Healthy,9321,Orphan,Low,Never,10,Yes
+40,Male,Secondary,Employed,Isiolo,Miraa,Regular,13,Mild,Stable,Healthy,79968,Orphan,Low,Never,3,No
+58,Male,None,Unemployed,Garissa,Miraa,Heavy,9,Mild,Stable,Healthy,88293,Stable,Moderate,Never,1,Yes
+39,Male,Secondary,Employed,Mandera,Bhang,Regular,11,Moderate,Anxious,Minor Issues,59618,Broken,Low,Never,6,Yes
+31,Male,Primary,Employed,Isiolo,Heroin,Regular,11,Moderate,Depressed,Healthy,26044,Broken,Low,Never,18,No
+27,Male,None,Employed,Marsabit,Miraa,Occasional,6,Moderate,Stable,Minor Issues,21971,Stable,Moderate,Never,13,Yes
+34,Male,Secondary,Employed,Wajir,Heroin,Regular,1,Moderate,Stable,Minor Issues,25727,Stable,Moderate,Once,18,Yes
+39,Male,None,Unemployed,Wajir,Alcohol,Occasional,6,Mild,Stable,Healthy,22559,Stable,Moderate,Once,6,Yes
+18,Female,Primary,Employed,Wajir,Alcohol,Regular,13,Moderate,Stable,Minor Issues,73820,Broken,Moderate,Multiple,11,Yes
+24,Male,Secondary,Student,Mandera,Alcohol,Occasional,5,Mild,Stable,Healthy,83201,Stable,Moderate,Once,2,Yes
+17,Male,None,Student,Isiolo,Alcohol,Occasional,15,Mild,Depressed,Chronic Conditions,27476,Stable,Moderate,Never,14,Yes
+55,Female,Secondary,Unemployed,Mandera,Alcohol,Occasional,18,Moderate,Anxious,Chronic Conditions,62683,Stable,High,Never,4,No
+59,Male,None,Employed,Garissa,Alcohol,Occasional,14,Severe,Stable,Healthy,10991,Broken,Low,Never,7,No
+32,Male,Primary,Employed,Marsabit,Heroin,Occasional,15,Moderate,Depressed,Chronic Conditions,85097,Broken,Low,Never,13,Yes
+50,Male,Secondary,Unemployed,Marsabit,Alcohol,Heavy,5,Mild,Anxious,Minor Issues,70047,Broken,Low,Never,3,Yes
+36,Male,Primary,Employed,Wajir,Bhang,Regular,4,Mild,Stable,Chronic Conditions,10796,Broken,Low,Never,6,No
+48,Male,None,Employed,Wajir,Alcohol,Regular,2,Severe,Anxious,Minor Issues,3881,Broken,High,Once,6,Yes
+22,Female,Primary,Unemployed,Wajir,Cocaine,Regular,7,Mild,Depressed,Healthy,15668,Stable,Low,Once,17,No
+54,Male,Primary,Unemployed,Isiolo,Bhang,Occasional,10,Mild,Stable,Chronic Conditions,34312,Stable,High,Once,13,No
+58,Male,Secondary,Unemployed,Garissa,Alcohol,Heavy,16,Mild,Psychotic,Healthy,28106,Orphan,Low,Never,7,Yes
+33,Female,Primary,Employed,Garissa,Bhang,Occasional,10,Mild,Stable,Healthy,92758,Orphan,High,Once,11,No
+56,Male,Secondary,Unemployed,Garissa,Miraa,Occasional,18,Mild,Stable,Healthy,15729,Broken,Moderate,Once,9,No
+55,Male,University,Employed,Garissa,Bhang,Regular,17,Moderate,Depressed,Healthy,70320,Stable,Moderate,Once,13,No
+51,Male,Primary,Employed,Wajir,Miraa,Occasional,13,Moderate,Stable,Minor Issues,54913,Stable,Moderate,Never,8,Yes
+20,Female,University,Unemployed,Marsabit,Bhang,Regular,1,Severe,Stable,Minor Issues,57026,Stable,Low,Once,5,Yes
+40,Male,Primary,Employed,Wajir,Bhang,Occasional,1,Mild,Stable,Chronic Conditions,59402,Broken,Moderate,Once,4,No
+48,Male,University,Employed,Garissa,Miraa,Regular,15,Mild,Depressed,Healthy,37282,Broken,Low,Never,0,Yes
+59,Male,None,Employed,Wajir,Alcohol,Regular,1,Moderate,Depressed,Chronic Conditions,99449,Broken,Moderate,Never,0,No
+20,Male,Secondary,Unemployed,Garissa,Heroin,Occasional,6,Moderate,Depressed,Chronic Conditions,74638,Broken,Moderate,Never,19,Yes
+51,Male,Primary,Unemployed,Mandera,Miraa,Regular,13,Moderate,Psychotic,Healthy,38218,Stable,Low,Once,16,Yes
+47,Male,Primary,Unemployed,Marsabit,Miraa,Occasional,1,Severe,Stable,Healthy,17950,Stable,High,Once,10,No
+36,Female,Secondary,Unemployed,Mandera,Alcohol,Regular,5,Mild,Stable,Chronic Conditions,59739,Stable,Low,Never,11,No
+35,Male,Secondary,Employed,Isiolo,Miraa,Occasional,9,Severe,Depressed,Minor Issues,4507,Broken,Moderate,Never,2,No
+20,Male,None,Unemployed,Wajir,Cocaine,Regular,17,Moderate,Depressed,Minor Issues,46303,Stable,High,Multiple,5,No
+20,Female,None,Employed,Isiolo,Alcohol,Regular,16,Mild,Stable,Minor Issues,79059,Broken,Moderate,Never,10,Yes
+18,Female,Secondary,Employed,Wajir,Miraa,Occasional,8,Severe,Stable,Healthy,24667,Broken,Moderate,Never,12,Yes
+44,Male,Secondary,Unemployed,Mandera,Bhang,Heavy,17,Moderate,Anxious,Healthy,3992,Stable,Moderate,Never,10,No
+25,Male,University,Student,Garissa,Heroin,Heavy,15,Mild,Psychotic,Minor Issues,73563,Stable,High,Once,7,Yes
+44,Male,Secondary,Employed,Garissa,Miraa,Regular,1,Mild,Depressed,Healthy,87680,Stable,Low,Once,9,No
+45,Female,University,Employed,Wajir,Miraa,Regular,12,Mild,Stable,Minor Issues,25530,Broken,Moderate,Never,1,Yes
+38,Female,Secondary,Employed,Garissa,Cocaine,Occasional,5,Moderate,Psychotic,Chronic Conditions,15305,Stable,Moderate,Multiple,13,Yes
+23,Male,Primary,Employed,Mandera,Bhang,Regular,6,Mild,Anxious,Minor Issues,52129,Stable,Low,Once,15,Yes
+17,Female,None,Student,Garissa,Alcohol,Occasional,1,Mild,Depressed,Chronic Conditions,87267,Broken,Low,Never,16,Yes
+45,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,1,Mild,Anxious,Healthy,86209,Broken,Low,Once,10,No
+54,Male,Secondary,Unemployed,Isiolo,Miraa,Heavy,10,Moderate,Anxious,Minor Issues,98833,Broken,Moderate,Never,1,No
+51,Male,None,Unemployed,Mandera,Alcohol,Regular,10,Severe,Anxious,Minor Issues,52044,Broken,High,Once,4,No
+50,Female,Primary,Employed,Marsabit,Alcohol,Regular,3,Moderate,Anxious,Chronic Conditions,91378,Broken,Moderate,Never,15,Yes
+38,Male,University,Unemployed,Marsabit,Heroin,Occasional,17,Mild,Depressed,Minor Issues,89363,Broken,Moderate,Once,15,Yes
+45,Female,Secondary,Unemployed,Marsabit,Alcohol,Regular,19,Severe,Depressed,Healthy,58817,Stable,Low,Never,1,Yes
+20,Female,Primary,Unemployed,Wajir,Bhang,Occasional,11,Moderate,Stable,Chronic Conditions,46666,Stable,Low,Multiple,15,Yes
+16,Female,Primary,Student,Wajir,Alcohol,Occasional,18,Severe,Depressed,Minor Issues,26173,Broken,Low,Never,4,Yes
+34,Male,Primary,Unemployed,Wajir,Bhang,Occasional,2,Moderate,Depressed,Healthy,18909,Broken,Moderate,Once,7,Yes
+42,Male,Primary,Employed,Mandera,Bhang,Regular,9,Moderate,Psychotic,Minor Issues,63967,Broken,Low,Never,19,Yes
+25,Male,Primary,Unemployed,Wajir,Alcohol,Regular,17,Moderate,Stable,Chronic Conditions,31007,Broken,Moderate,Multiple,13,Yes
+18,Male,None,Employed,Isiolo,Miraa,Occasional,14,Mild,Depressed,Minor Issues,12985,Orphan,High,Once,9,Yes
+29,Male,Secondary,Employed,Marsabit,Alcohol,Regular,4,Moderate,Stable,Healthy,22525,Stable,Moderate,Never,1,Yes
+20,Female,Primary,Employed,Mandera,Heroin,Occasional,17,Severe,Depressed,Chronic Conditions,37403,Stable,Moderate,Multiple,2,Yes
+44,Male,Secondary,Employed,Marsabit,Heroin,Regular,17,Severe,Depressed,Minor Issues,37193,Stable,Moderate,Never,17,Yes
+52,Male,University,Unemployed,Wajir,Miraa,Heavy,12,Severe,Stable,Minor Issues,3830,Broken,Low,Once,1,No
+16,Male,Primary,Unemployed,Mandera,Miraa,Regular,18,Moderate,Depressed,Healthy,56144,Stable,Low,Once,8,Yes
+29,Male,Secondary,Student,Garissa,Miraa,Heavy,3,Mild,Stable,Healthy,533,Stable,High,Never,1,No
+25,Male,Primary,Unemployed,Isiolo,Bhang,Heavy,11,Mild,Stable,Minor Issues,20946,Stable,Moderate,Multiple,6,Yes
+22,Male,University,Unemployed,Wajir,Miraa,Regular,18,Moderate,Depressed,Chronic Conditions,23504,Stable,Moderate,Never,6,No
+40,Female,Primary,Employed,Wajir,Alcohol,Regular,4,Moderate,Stable,Healthy,55715,Stable,Low,Never,13,Yes
+59,Male,Secondary,Employed,Isiolo,Miraa,Heavy,17,Mild,Stable,Healthy,28255,Stable,Moderate,Multiple,4,No
+58,Female,Secondary,Unemployed,Isiolo,Alcohol,Occasional,18,Mild,Stable,Healthy,56441,Broken,Low,Once,7,Yes
+19,Female,Primary,Unemployed,Garissa,Bhang,Occasional,5,Moderate,Stable,Minor Issues,36855,Stable,Low,Never,17,No
+20,Male,None,Unemployed,Wajir,Alcohol,Heavy,14,Moderate,Depressed,Healthy,41721,Stable,Low,Never,5,Yes
+40,Female,Secondary,Employed,Wajir,Bhang,Regular,10,Severe,Stable,Healthy,41850,Broken,Moderate,Once,13,Yes
+18,Male,Secondary,Employed,Marsabit,Alcohol,Occasional,15,Moderate,Anxious,Healthy,34723,Broken,Low,Never,17,No
+33,Female,Primary,Unemployed,Mandera,Alcohol,Regular,1,Moderate,Stable,Minor Issues,35739,Stable,Low,Multiple,16,Yes
+34,Male,Secondary,Employed,Mandera,Bhang,Regular,16,Moderate,Stable,Healthy,5539,Stable,Moderate,Once,8,No
+47,Female,Primary,Employed,Marsabit,Cocaine,Regular,11,Severe,Stable,Healthy,73029,Broken,Moderate,Never,12,Yes
+34,Female,Secondary,Unemployed,Mandera,Bhang,Regular,6,Moderate,Depressed,Chronic Conditions,64509,Stable,Moderate,Never,15,Yes
+26,Female,None,Employed,Isiolo,Alcohol,Regular,16,Severe,Depressed,Healthy,21311,Stable,Moderate,Once,9,No
+15,Female,University,Unemployed,Mandera,Alcohol,Regular,2,Severe,Anxious,Healthy,69180,Stable,High,Never,9,Yes
+40,Male,Primary,Employed,Mandera,Heroin,Regular,1,Severe,Depressed,Chronic Conditions,85981,Stable,Low,Once,3,Yes
+28,Male,Primary,Employed,Marsabit,Miraa,Regular,9,Mild,Stable,Healthy,35934,Broken,Low,Multiple,11,No
+52,Male,None,Employed,Garissa,Alcohol,Regular,12,Mild,Depressed,Minor Issues,9511,Broken,Moderate,Once,7,No
+51,Male,None,Unemployed,Mandera,Heroin,Regular,17,Mild,Anxious,Healthy,183,Broken,Low,Never,14,No
+25,Male,Secondary,Employed,Mandera,Heroin,Occasional,15,Mild,Stable,Minor Issues,9475,Broken,Moderate,Never,18,Yes
+50,Male,Primary,Unemployed,Garissa,Cocaine,Regular,19,Mild,Stable,Healthy,84766,Stable,Moderate,Once,14,Yes
+27,Female,Secondary,Employed,Marsabit,Cocaine,Heavy,10,Mild,Depressed,Chronic Conditions,63130,Broken,High,Once,7,Yes
+57,Male,None,Unemployed,Garissa,Heroin,Occasional,12,Mild,Stable,Healthy,59577,Stable,High,Once,7,Yes
+17,Female,Primary,Employed,Marsabit,Alcohol,Occasional,14,Moderate,Psychotic,Healthy,26008,Stable,High,Never,18,No
+47,Male,Primary,Unemployed,Isiolo,Alcohol,Regular,9,Moderate,Stable,Minor Issues,76868,Broken,Low,Multiple,8,Yes
+20,Female,None,Unemployed,Marsabit,Miraa,Heavy,13,Mild,Stable,Chronic Conditions,47941,Broken,High,Never,16,Yes
+24,Female,None,Student,Isiolo,Miraa,Occasional,3,Moderate,Psychotic,Healthy,42756,Stable,Low,Once,7,Yes
+19,Male,Primary,Employed,Isiolo,Miraa,Occasional,14,Moderate,Anxious,Chronic Conditions,70258,Broken,Moderate,Once,11,No
+37,Male,Primary,Employed,Marsabit,Miraa,Occasional,10,Moderate,Stable,Healthy,80730,Stable,Moderate,Once,14,No
+24,Female,Primary,Employed,Wajir,Miraa,Regular,16,Severe,Anxious,Minor Issues,92167,Stable,Low,Never,3,No
+58,Male,Secondary,Unemployed,Marsabit,Miraa,Occasional,7,Mild,Stable,Healthy,27912,Stable,Moderate,Once,5,Yes
+16,Male,Secondary,Unemployed,Mandera,Alcohol,Occasional,4,Mild,Stable,Minor Issues,82702,Broken,Low,Never,15,No
+27,Male,None,Unemployed,Mandera,Alcohol,Regular,11,Moderate,Anxious,Healthy,50659,Broken,Low,Once,4,No
+54,Male,Primary,Employed,Wajir,Miraa,Heavy,16,Mild,Depressed,Healthy,46840,Broken,High,Never,12,Yes
+16,Male,University,Employed,Isiolo,Bhang,Regular,4,Moderate,Stable,Healthy,81512,Stable,Low,Never,14,Yes
+34,Male,Secondary,Employed,Wajir,Alcohol,Occasional,17,Mild,Stable,Healthy,38623,Stable,Low,Never,16,Yes
+15,Male,Secondary,Student,Mandera,Miraa,Regular,13,Mild,Depressed,Chronic Conditions,63303,Broken,Moderate,Multiple,19,Yes
+51,Male,Primary,Unemployed,Wajir,Bhang,Heavy,11,Mild,Stable,Chronic Conditions,46062,Stable,High,Once,4,No
+23,Female,Secondary,Student,Marsabit,Miraa,Regular,3,Mild,Depressed,Minor Issues,56690,Stable,Low,Once,18,Yes
+31,Male,Secondary,Employed,Wajir,Alcohol,Heavy,9,Moderate,Depressed,Healthy,77582,Orphan,Low,Once,6,Yes
+23,Female,Secondary,Unemployed,Isiolo,Miraa,Heavy,6,Moderate,Stable,Healthy,98980,Broken,High,Multiple,2,No
+25,Male,University,Unemployed,Marsabit,Alcohol,Occasional,11,Mild,Depressed,Minor Issues,23634,Stable,Low,Never,12,No
+29,Male,None,Employed,Garissa,Cocaine,Regular,16,Mild,Anxious,Chronic Conditions,4090,Stable,Low,Once,13,No
+38,Male,None,Unemployed,Mandera,Alcohol,Occasional,19,Mild,Stable,Healthy,45266,Stable,Moderate,Once,15,Yes
+52,Male,Secondary,Student,Mandera,Bhang,Regular,5,Mild,Stable,Chronic Conditions,30008,Broken,Moderate,Never,12,Yes
+49,Male,Secondary,Unemployed,Wajir,Alcohol,Occasional,14,Severe,Stable,Chronic Conditions,87643,Broken,High,Never,1,Yes
+44,Male,None,Unemployed,Marsabit,Miraa,Occasional,17,Mild,Depressed,Chronic Conditions,58704,Broken,Low,Never,13,Yes
+45,Male,Primary,Employed,Garissa,Miraa,Heavy,3,Moderate,Anxious,Healthy,62866,Stable,High,Never,19,Yes
+19,Male,None,Employed,Marsabit,Alcohol,Occasional,4,Severe,Stable,Healthy,8382,Stable,High,Never,6,Yes
+58,Male,Primary,Student,Mandera,Miraa,Heavy,16,Mild,Stable,Healthy,47774,Orphan,Low,Never,4,Yes
+28,Male,Secondary,Employed,Marsabit,Alcohol,Occasional,16,Moderate,Stable,Minor Issues,74570,Orphan,Low,Once,13,Yes
+25,Male,Secondary,Unemployed,Garissa,Miraa,Occasional,4,Severe,Depressed,Healthy,74062,Broken,High,Never,8,Yes
+23,Female,Primary,Unemployed,Wajir,Bhang,Heavy,19,Severe,Stable,Healthy,89609,Stable,Moderate,Never,9,No
+48,Male,Primary,Unemployed,Isiolo,Miraa,Regular,17,Moderate,Anxious,Minor Issues,46698,Broken,Moderate,Multiple,6,No
+26,Male,None,Student,Marsabit,Heroin,Regular,13,Moderate,Stable,Healthy,1110,Broken,Moderate,Once,13,Yes
+49,Female,Primary,Employed,Isiolo,Bhang,Occasional,1,Severe,Depressed,Healthy,81981,Broken,Moderate,Never,13,Yes
+49,Male,Secondary,Employed,Mandera,Miraa,Regular,12,Mild,Depressed,Minor Issues,386,Broken,High,Once,1,Yes
+15,Male,University,Employed,Wajir,Alcohol,Regular,4,Severe,Depressed,Minor Issues,58513,Stable,Low,Never,16,Yes
+54,Female,Secondary,Unemployed,Wajir,Miraa,Regular,11,Moderate,Stable,Minor Issues,84120,Stable,Low,Never,19,Yes
+36,Male,None,Employed,Marsabit,Bhang,Regular,5,Moderate,Depressed,Healthy,99987,Stable,High,Never,3,No
+43,Male,University,Employed,Wajir,Alcohol,Heavy,2,Severe,Stable,Minor Issues,47801,Orphan,High,Multiple,12,No
+22,Male,Secondary,Unemployed,Marsabit,Heroin,Regular,17,Severe,Stable,Minor Issues,96085,Broken,Moderate,Once,17,No
+25,Male,Secondary,Student,Marsabit,Alcohol,Heavy,8,Mild,Depressed,Healthy,71857,Broken,High,Once,2,No
+55,Male,Primary,Employed,Isiolo,Heroin,Regular,6,Mild,Depressed,Minor Issues,89976,Stable,Moderate,Multiple,18,No
+51,Male,Primary,Employed,Wajir,Alcohol,Regular,9,Moderate,Stable,Healthy,31566,Orphan,Low,Multiple,4,Yes
+28,Male,Primary,Student,Marsabit,Heroin,Occasional,13,Moderate,Stable,Healthy,32521,Broken,High,Once,0,No
+44,Male,None,Employed,Isiolo,Miraa,Occasional,11,Moderate,Anxious,Healthy,23798,Stable,Moderate,Once,8,Yes
+49,Female,Primary,Employed,Garissa,Alcohol,Heavy,16,Severe,Anxious,Healthy,13565,Broken,Low,Never,7,No
+35,Female,Primary,Employed,Isiolo,Alcohol,Occasional,16,Severe,Stable,Healthy,23027,Stable,Low,Never,2,Yes
+51,Male,Primary,Unemployed,Isiolo,Miraa,Occasional,2,Moderate,Depressed,Chronic Conditions,97631,Stable,Moderate,Once,1,Yes
+19,Male,Secondary,Employed,Marsabit,Cocaine,Occasional,10,Mild,Stable,Healthy,5631,Stable,High,Once,0,No
+33,Male,Primary,Student,Mandera,Alcohol,Occasional,12,Moderate,Depressed,Chronic Conditions,89865,Orphan,Low,Multiple,11,Yes
